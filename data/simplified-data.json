@@ -1,0 +1,6275 @@
+{
+  "statusCode": 200,
+  "success": true,
+  "description": "Success",
+  "errors": [],
+  "count": 1000,
+  "responseMetaData": {
+    "resultsTotal": 189788,
+    "resultsThisPage": 1000
+  },
+  "page": {
+    "next": "https://passcreator.com/api/v3/pass/?pageSize=1000&startUid=das-aac8-4916-af9f-asda&startCreatedOnTimestamp=1731055562000&formatKeyAdditionalProperties=name"
+  },
+  "data": [
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-11-14 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "208cb8c2-6001-4713-b1e8-43a1972163ee",
+      "createdOn": "2024-11-14 11:11:16",
+      "numberOfActive": 1,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "413125f6-218a-4d3c-9330-2212a42783b9",
+      "createdOn": "2024-11-14 11:06:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0f381ade-8c4d-4195-861e-49926af821a3",
+      "createdOn": "2024-11-14 11:06:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f9509378-53ed-4523-8406-ab033cfda99c",
+      "createdOn": "2024-11-14 11:06:08",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "dc805cc8-b31a-4011-8364-79b0bec8031f",
+      "createdOn": "2024-11-14 11:05:07",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "975241cd-e25d-4662-be4e-7fadc8e5f116",
+      "createdOn": "2024-11-14 11:05:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "72a9a610-1886-40c9-b9d5-2649fc870dad",
+      "createdOn": "2024-11-14 10:58:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5f7404ff-2ace-4386-be1b-b77f2e7aade5",
+      "createdOn": "2024-11-14 10:48:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3e666770-32f7-4801-af04-6599c7eb710a",
+      "createdOn": "2024-11-14 10:47:49",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "39b39336-32a1-4aa3-8f43-a6a9ce68511c",
+      "createdOn": "2024-11-14 10:46:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "415e7608-23c9-4957-a1a8-313f57a85180",
+      "createdOn": "2024-11-14 10:46:46",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c24e7afa-81e6-47a5-9d74-bdda475cd7a5",
+      "createdOn": "2024-11-14 10:44:45",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5d4251a4-15d8-40b4-8363-726c43245075",
+      "createdOn": "2024-11-14 10:42:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1fb57769-cd71-4b27-9d79-7dd0b718289c",
+      "createdOn": "2024-11-14 10:40:40",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "36ffb6e8-ec8e-461d-ba98-083190eb41aa",
+      "createdOn": "2024-11-14 10:38:38",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2de3731c-a4a7-40e1-8e7e-311aedcb6444",
+      "createdOn": "2024-11-14 10:32:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7428a8d0-08d6-4296-8581-e2c576ca5b27",
+      "createdOn": "2024-11-14 10:32:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ec8115bd-8aa2-41ad-bc12-051ac0ac9112",
+      "createdOn": "2024-11-14 10:29:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d880b888-83e7-4b2c-8a6b-d305aac2e4cc",
+      "createdOn": "2024-11-14 10:20:49",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "67b2fa62-020c-43f2-95dc-6bd7ce235a8c",
+      "createdOn": "2024-11-14 10:12:26",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9235941e-e1df-4eb8-857a-7daa25c71971",
+      "createdOn": "2024-11-14 10:12:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d6672153-8645-4076-81f4-9623e6ef0b82",
+      "createdOn": "2024-11-14 10:12:08",
+      "numberOfActive": 1,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1d7a014d-c24f-4243-b8d7-ed2d341c3443",
+      "createdOn": "2024-11-14 10:12:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "bc35a8c4-8d7b-4acd-853a-8423245101b5",
+      "createdOn": "2024-11-14 10:10:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b3fe7aaa-06af-4a91-825a-bbea7feae931",
+      "createdOn": "2024-11-14 10:05:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "52b28f6d-05ab-4a9e-b455-366d595772b8",
+      "createdOn": "2024-11-14 10:04:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "99e27f01-7be8-45ef-b84c-70da9c649c45",
+      "createdOn": "2024-11-14 10:04:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b442e509-46a6-41d9-af40-eea4f7543edd",
+      "createdOn": "2024-11-14 10:01:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6f864e06-e0f7-487c-8ada-cb54a929f8e2",
+      "createdOn": "2024-11-14 09:57:48",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "704470cf-002e-4479-85a7-cf287b23fa27",
+      "createdOn": "2024-11-14 09:55:52",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3ac14adb-3218-4c17-8ed8-7e285aea0ccd",
+      "createdOn": "2024-11-14 09:55:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "df290186-7819-4c2d-802a-138de38428e0",
+      "createdOn": "2024-11-14 09:49:46",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4bb5ec1b-1865-4409-9bea-69666e5d2a40",
+      "createdOn": "2024-11-14 09:40:53",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "94d6e99a-b92d-41f4-a109-64de19d1a594",
+      "createdOn": "2024-11-14 09:40:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "85ed46e8-019c-4189-8c93-5fdf21f8d0ad",
+      "createdOn": "2024-11-14 09:38:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9adb74e9-6be9-4aad-95f1-3a7504d5f4af",
+      "createdOn": "2024-11-14 09:30:30",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f06d001c-63f2-4fc2-b09e-6200fdd89f18",
+      "createdOn": "2024-11-14 09:25:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f88d1289-ad7d-407a-84af-91e45ad094a3",
+      "createdOn": "2024-11-14 09:20:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b17fb306-a204-457c-802e-eabf9b0dd9df",
+      "createdOn": "2024-11-14 09:12:29",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "bd5d7b8c-7779-4c19-826c-e67ea26e9807",
+      "createdOn": "2024-11-14 09:03:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2a423a42-1a3d-4ebc-96b9-6bf771d22e5e",
+      "createdOn": "2024-11-14 09:00:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "454b4549-65d9-4dee-9dc8-a99ad50efd66",
+      "createdOn": "2024-11-14 08:51:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "62114149-f937-49a7-ab92-e146c030f401",
+      "createdOn": "2024-11-14 08:45:21",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fa5ae877-8ee7-4502-a13b-bffcbb6fe632",
+      "createdOn": "2024-11-14 08:45:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "aee2a4a3-ca9a-41cf-b1c7-048ae0645d85",
+      "createdOn": "2024-11-14 08:45:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b8f16b30-e29c-4864-aca6-d80fad9100a8",
+      "createdOn": "2024-11-14 08:44:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9f99ff45-cfc3-4ed6-9f97-71d1724b7e85",
+      "createdOn": "2024-11-14 08:41:12",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "886327da-d4c2-4855-a058-8abb6da9a3fb",
+      "createdOn": "2024-11-14 08:40:57",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "140c7222-e8d8-4f8f-9e08-eed17f56dcea",
+      "createdOn": "2024-11-14 08:34:35",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "aaf6dab1-c5da-43d1-8953-1aba4fe40244",
+      "createdOn": "2024-11-14 08:29:04",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "26e460e0-8f2f-4200-af23-2e4db7f61a9e",
+      "createdOn": "2024-11-14 08:25:44",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7ae7b55e-a197-4ee1-abc9-b966b394f01f",
+      "createdOn": "2024-11-14 08:23:28",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c12bbd65-98b7-4869-964c-a1afa694a701",
+      "createdOn": "2024-11-14 08:23:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f7f5ff66-1800-41a8-8f15-924eac194103",
+      "createdOn": "2024-11-14 08:21:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2b0d509a-49ca-421e-b89e-aee8a6fa91cb",
+      "createdOn": "2024-11-14 08:20:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1fc2e5c3-fd43-4037-9651-7741c2503292",
+      "createdOn": "2024-11-14 08:18:44",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3563e3e8-3792-4cac-842f-13d1b33eea33",
+      "createdOn": "2024-11-14 08:17:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "301c8af7-72fb-486f-999b-27c118dab913",
+      "createdOn": "2024-11-14 08:16:23",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2c10bd3f-1831-40a5-9de8-340e7d04bdd1",
+      "createdOn": "2024-11-14 08:15:49",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9699f703-0802-47a6-aff2-9cc873ca46bf",
+      "createdOn": "2024-11-14 08:15:41",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7f5d445f-a5d9-4fa6-93c8-b5e716e8c707",
+      "createdOn": "2024-11-14 08:14:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "06d054f1-0adc-4fa7-b5e7-6b4fe10b57cf",
+      "createdOn": "2024-11-14 08:12:53",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c4788d80-487d-4f65-917c-7ee880e77201",
+      "createdOn": "2024-11-14 08:10:44",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "05ce8564-8dcf-4999-9fb4-a834b3955f7c",
+      "createdOn": "2024-11-14 08:07:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b7c2814f-c01c-421c-840c-2c3291f6594c",
+      "createdOn": "2024-11-14 07:52:41",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "53884629-b7cb-48bd-a6c7-6c46d44b17ff",
+      "createdOn": "2024-11-14 07:45:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2894767f-fc12-4b5d-836b-b2364d5ff16e",
+      "createdOn": "2024-11-14 07:45:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "90eb444f-fceb-42a8-8edb-6e32ff40d28a",
+      "createdOn": "2024-11-14 07:43:52",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a173856d-186a-4fe1-b8f7-a7feb6e608c8",
+      "createdOn": "2024-11-14 07:36:26",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7b5147dc-322f-47c9-8b2e-be1dc5739257",
+      "createdOn": "2024-11-14 07:36:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3957a5d6-6540-4f10-83be-fdce7582ff07",
+      "createdOn": "2024-11-14 07:35:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0b0010bf-278e-432a-b00a-22dbce66ea13",
+      "createdOn": "2024-11-14 07:33:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4f94e472-dad6-4c58-af85-9ea7d34f57ee",
+      "createdOn": "2024-11-14 07:33:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b729de06-bc36-433d-a613-f5a063e7354d",
+      "createdOn": "2024-11-14 07:32:45",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3166e33e-3c63-4ea4-b8be-1a815d0f2c89",
+      "createdOn": "2024-11-14 07:31:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "494669ff-f112-4d24-aca6-52c794115919",
+      "createdOn": "2024-11-14 07:22:46",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7bbcd7dc-a337-44af-80b6-4edeec022296",
+      "createdOn": "2024-11-14 05:44:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "40a58ec7-35ac-4bf3-8c77-39a38733f5c3",
+      "createdOn": "2024-11-14 05:39:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "95de5913-143b-4998-9d58-fca59a22323e",
+      "createdOn": "2024-11-14 05:34:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "055df847-9610-424e-b47d-a132daaf5581",
+      "createdOn": "2024-11-14 05:23:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ea6d602d-6e42-4a44-85f8-a5ddb78e9ef4",
+      "createdOn": "2024-11-14 04:55:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "218ad98b-c56e-49fb-8c6d-9d018a2ab77d",
+      "createdOn": "2024-11-14 04:21:57",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "21a6486f-70a6-4de8-babd-1f0c5be5c18e",
+      "createdOn": "2024-11-14 03:53:57",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "73de6d93-1653-45e2-bca5-968f44fef895",
+      "createdOn": "2024-11-14 03:52:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "19f659a1-283b-48fb-afc4-7a8f9c56fb11",
+      "createdOn": "2024-11-14 03:52:53",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f25684ae-4b58-4a5c-970c-8b62b799f4ab",
+      "createdOn": "2024-11-14 03:52:49",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "371f863a-8311-4107-8edc-6d56eacdb6c0",
+      "createdOn": "2024-11-14 03:51:49",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "922f1b7e-d7d0-47af-b36c-735d8a78de33",
+      "createdOn": "2024-11-14 03:51:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fcdebdcb-6b15-4267-8757-912f3bff9c78",
+      "createdOn": "2024-11-14 03:25:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "27147c9c-c559-4b9c-b1b9-2fdb6caeb627",
+      "createdOn": "2024-11-14 03:25:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "02429b7e-b5d8-472a-8e96-f83a0522156b",
+      "createdOn": "2024-11-14 03:25:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1775b4e0-11e9-4f2d-b692-82efc1c44023",
+      "createdOn": "2024-11-14 03:25:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "94145232-d501-4af4-b9f8-f1c56f64d34f",
+      "createdOn": "2024-11-14 03:25:30",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "062169a4-7fe5-492c-8c75-0059456730d9",
+      "createdOn": "2024-11-14 03:25:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "84cd2935-1f60-404a-a557-f62cfe86e409",
+      "createdOn": "2024-11-14 03:25:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f6d1aede-1852-4c12-91a3-f5a6cfc9a48a",
+      "createdOn": "2024-11-14 03:25:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "95e9e62a-3495-4cbd-9880-cf013b2d944b",
+      "createdOn": "2024-11-14 03:25:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "49c4da4a-67af-423c-bfb3-eda6b1174656",
+      "createdOn": "2024-11-14 03:25:14",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d8a02f56-3ae1-44f9-8cf8-67eddd7bd331",
+      "createdOn": "2024-11-14 03:25:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5e96133c-8d93-47dd-bbe5-cc07286239c5",
+      "createdOn": "2024-11-14 03:25:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3a24e88c-4255-45c9-bedf-be9d74f36244",
+      "createdOn": "2024-11-14 03:25:07",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "830da4a1-3cd5-482d-aa56-b047e13f1cb6",
+      "createdOn": "2024-11-14 03:25:06",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4c006854-ba2a-49a3-9e26-7bf69dd249d9",
+      "createdOn": "2024-11-14 03:25:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "685bd1b4-292c-4446-9c0f-e61ca254567b",
+      "createdOn": "2024-11-14 03:25:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6461af9e-3809-4c14-923b-bc2403af876e",
+      "createdOn": "2024-11-14 03:24:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "24da733a-104e-4028-b6d0-83c6c37fc8af",
+      "createdOn": "2024-11-14 03:24:46",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2b94510b-7d34-4e0c-b2a9-9894c8985c6e",
+      "createdOn": "2024-11-14 03:24:40",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1f7441b6-228b-4dc8-b539-05a172b0822f",
+      "createdOn": "2024-11-14 03:24:40",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9b1f3c9c-aecc-46fb-a3dd-d4cb5c23516c",
+      "createdOn": "2024-11-14 03:24:38",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2589bae9-2cca-40f0-97bb-9de155664b7b",
+      "createdOn": "2024-11-14 03:24:37",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "86f5ab1e-ef01-48e4-bf20-46669c776aea",
+      "createdOn": "2024-11-14 03:24:35",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d032b2e7-5669-488b-b973-c100900e1823",
+      "createdOn": "2024-11-14 03:24:34",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5af2f31a-0ca8-4680-98a8-2087ac1410e3",
+      "createdOn": "2024-11-14 03:24:30",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "21e4f543-d682-48ed-841f-81d81a246204",
+      "createdOn": "2024-11-14 03:24:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a42001ff-504d-4248-aa7a-bf6c017d86b4",
+      "createdOn": "2024-11-14 03:24:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "bd7b1b67-3201-4dbc-b1df-439415cebffe",
+      "createdOn": "2024-11-14 03:23:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "90a70920-1933-4f41-a175-f8f1584660ea",
+      "createdOn": "2024-11-14 03:14:46",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7dba9fc3-8bb0-45cd-88d0-116b70e3a707",
+      "createdOn": "2024-11-14 02:42:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "097f6e7b-f4b5-43ec-a3e0-b0f52182e13b",
+      "createdOn": "2024-11-14 02:41:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0e040ca3-1154-4622-963b-ea840b9de43d",
+      "createdOn": "2024-11-14 02:40:35",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ed552a47-4240-4349-92e9-3b7f62750e01",
+      "createdOn": "2024-11-14 02:39:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8f5e8d4b-ffb9-4491-b5e8-ec3c375e78cf",
+      "createdOn": "2024-11-14 02:38:50",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a25c101f-8783-4f17-bcc3-df0ddbcb4f86",
+      "createdOn": "2024-11-14 02:37:57",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ef1c518b-6a71-4ff7-9a78-b3291980b463",
+      "createdOn": "2024-11-14 02:37:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ee7e3449-4d74-4b2e-9b52-aab28a84d6f2",
+      "createdOn": "2024-11-14 02:36:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3966f702-2a7a-4ebe-8333-aef80980de94",
+      "createdOn": "2024-11-14 02:35:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a84f24a4-ccc2-4789-86d7-c9cd82843940",
+      "createdOn": "2024-11-14 02:34:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8d2975b3-4267-42ff-9b54-98fa0d7d4b59",
+      "createdOn": "2024-11-14 02:05:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "00ec69c7-fd1b-4964-a8a2-1dd8e42696d5",
+      "createdOn": "2024-11-14 02:04:08",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a3b05062-8fa9-4f5a-901e-b581644955fb",
+      "createdOn": "2024-11-14 02:03:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "121a5980-b188-40b8-8d30-061a08edaac1",
+      "createdOn": "2024-11-13 19:32:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b6bae675-f7a0-4d0f-b170-e2bc34e267be",
+      "createdOn": "2024-11-13 17:41:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1e5bb5d6-2649-46f3-9975-e7aa8a5242dc",
+      "createdOn": "2024-11-13 16:47:08",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3bbfc52e-c216-4a2a-8d3c-094427f2849b",
+      "createdOn": "2024-11-13 16:28:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "615dd602-879f-4c98-b82b-9f466974cad6",
+      "createdOn": "2024-11-13 16:24:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3cef9f2d-e455-4b42-a7e6-1afa4cdfc72a",
+      "createdOn": "2024-11-13 16:23:45",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2e7a014a-f68c-4b73-9190-9d87e6ae62c1",
+      "createdOn": "2024-11-13 16:22:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c8fde9f1-803a-4618-99ba-6f0546a4c365",
+      "createdOn": "2024-11-13 16:21:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "56f37402-1a59-4dd0-9c15-f47339a2ee35",
+      "createdOn": "2024-11-13 16:21:38",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c4c1fe18-1f72-47c6-bbc2-2160e2ce6c25",
+      "createdOn": "2024-11-13 16:21:37",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b79e6b93-8ba6-4aac-9f3d-56217379f509",
+      "createdOn": "2024-11-13 16:20:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "42d29e86-1aa5-4359-b03c-f16cffcb6ee4",
+      "createdOn": "2024-11-13 16:16:30",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "16577fe6-b4ad-4919-ae06-28e1a5c45e32",
+      "createdOn": "2024-11-13 16:15:18",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "95f63745-8faf-4cc5-b87e-5f63b1c28e27",
+      "createdOn": "2024-11-13 15:55:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "53556ba8-2b49-4a17-97c0-a6a4e4154138",
+      "createdOn": "2024-11-13 15:46:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "49f92ded-9b95-4e26-8456-c448c2505281",
+      "createdOn": "2024-11-13 15:27:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "56db0e7b-c7ff-42ba-bd06-23c8cdd4b115",
+      "createdOn": "2024-11-13 15:25:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6911c9b0-747a-4e2a-8f25-db4d5b588898",
+      "createdOn": "2024-11-13 15:08:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "dcb214b5-276c-4eca-a4c5-5c4da724aab3",
+      "createdOn": "2024-11-13 14:54:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f08fbb11-7151-47e9-a794-e41f027242c8",
+      "createdOn": "2024-11-13 14:53:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2de82fa4-1b5c-4855-a44d-a9791b851289",
+      "createdOn": "2024-11-13 14:52:23",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "abec578a-9117-4cb8-b86f-5e6abeb93c48",
+      "createdOn": "2024-11-13 14:52:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a906e60f-3867-40a4-a164-7240f4d2c53b",
+      "createdOn": "2024-11-13 14:50:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "eb0120b0-da0c-4b77-871f-9581f6fd6724",
+      "createdOn": "2024-11-13 14:31:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f753c2be-9ab9-40f6-abf3-955e56137dad",
+      "createdOn": "2024-11-13 14:30:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f2bd51aa-0e13-49ad-93dd-26f0a741a92a",
+      "createdOn": "2024-11-13 14:28:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d5c79472-3ab2-4bda-9f4e-93e0268e4ada",
+      "createdOn": "2024-11-13 14:28:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "746e431d-8076-454c-a53f-94ff81d3127e",
+      "createdOn": "2024-11-13 14:28:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b020ac55-4880-4f50-bb4f-5b8469a409ed",
+      "createdOn": "2024-11-13 13:15:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c1b379f0-7031-4d3b-ad35-45518b7fa3e1",
+      "createdOn": "2024-11-13 12:53:07",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ddc68fd1-48bf-4829-870f-f89b146383a8",
+      "createdOn": "2024-11-13 12:51:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b52cd6db-81e9-4d1d-9c51-0e60a23c2290",
+      "createdOn": "2024-11-13 12:49:48",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d9485645-d584-4e53-8c29-204b7900c667",
+      "createdOn": "2024-11-13 12:49:46",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "301727c6-9245-4118-8221-079a15d6fb22",
+      "createdOn": "2024-11-13 12:49:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4f37ee37-54c7-4851-afa2-43cbdbb9bb1b",
+      "createdOn": "2024-11-13 12:38:14",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "df2c1ea7-e162-4747-b82f-aef490633513",
+      "createdOn": "2024-11-13 12:37:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "014e3f0a-cba7-4aaa-a321-e552dd9f9455",
+      "createdOn": "2024-11-13 12:36:02",
+      "numberOfActive": 1,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6fb5acd6-1630-445c-aca0-17c21e3446ad",
+      "createdOn": "2024-11-13 12:32:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c17ad2b7-241f-4db0-ad7a-c920e1252ab8",
+      "createdOn": "2024-11-13 12:32:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1de62b71-cb25-4ecc-951a-1ff432338bed",
+      "createdOn": "2024-11-13 12:17:37",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "60377f50-d43f-48f7-8168-4fb127920a35",
+      "createdOn": "2024-11-13 12:17:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4097511b-6809-45ec-a510-660a9ebde6dd",
+      "createdOn": "2024-11-13 12:17:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "245020d6-736a-4730-a197-c406b5d09e0a",
+      "createdOn": "2024-11-13 12:17:35",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "79e85bd0-ac37-4dc2-abdc-c584ed0642af",
+      "createdOn": "2024-11-13 12:17:34",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0d3b3f55-86dd-40b1-8d1b-2ee0e48a4e60",
+      "createdOn": "2024-11-13 12:17:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "76261d86-ce27-493e-a99b-b8242321c0a0",
+      "createdOn": "2024-11-13 12:14:26",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3827a6ad-8737-4ada-9fa9-aa2488589d7c",
+      "createdOn": "2024-11-13 12:00:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3e4da6d8-726c-43b7-b93a-f1049087538b",
+      "createdOn": "2024-11-13 11:58:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9c8e91be-6db6-43c2-af27-6586f77c283b",
+      "createdOn": "2024-11-13 11:57:06",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "640f484f-7373-4ee2-ad8c-d0196e697850",
+      "createdOn": "2024-11-13 11:57:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7e1e7435-755c-4f4c-b40f-489271888924",
+      "createdOn": "2024-11-13 11:56:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "afb01e05-54fa-43d0-92cf-57c9933ed59d",
+      "createdOn": "2024-11-13 11:21:06",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "80c69b1e-3d1a-44d1-bba6-281d8b8a61e9",
+      "createdOn": "2024-11-13 11:11:37",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9ba27f10-a8e7-464b-8039-3bbbfcf887cc",
+      "createdOn": "2024-11-13 11:07:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "65ba02d6-6ab6-4340-a9f6-044e0769ed90",
+      "createdOn": "2024-11-13 11:06:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "cd83aabc-707a-41dd-adc0-153a56a36d41",
+      "createdOn": "2024-11-13 10:44:45",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "99aad421-7fdf-498d-a9df-04bac13259db",
+      "createdOn": "2024-11-13 10:40:37",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "90928658-d1ae-4ef1-9670-c48a0eadd6d1",
+      "createdOn": "2024-11-13 10:32:29",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "92b09435-e43a-4e02-b7a1-0a9cd2cfaf23",
+      "createdOn": "2024-11-13 10:27:14",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "106ecf7f-f9cf-4f81-9ab4-1f6cf6443354",
+      "createdOn": "2024-11-13 10:21:48",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6dd1b685-cc02-48cd-9d76-f453fa2a2b70",
+      "createdOn": "2024-11-13 09:56:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "455b0af5-e299-4998-8aad-bb3de2b54b38",
+      "createdOn": "2024-11-13 09:50:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9e0be10c-8550-4ac0-97a6-02c45d032f25",
+      "createdOn": "2024-11-13 09:48:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d2cf20cd-ee16-4a35-aefe-6a82a712451c",
+      "createdOn": "2024-11-13 09:47:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "88ee1e32-3212-42a3-bebf-eed3bcad568f",
+      "createdOn": "2024-11-13 09:46:08",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "217f1db5-a0ac-47f5-9435-0ea07b9626b3",
+      "createdOn": "2024-11-13 09:45:07",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5a8897c8-64b6-4e50-a1a0-12c80012afa0",
+      "createdOn": "2024-11-13 09:44:06",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "93325a70-66f7-4f29-abd7-0193d6a24ecf",
+      "createdOn": "2024-11-13 09:39:14",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2b61fe77-ffcd-4c5c-85fa-4a118f904b94",
+      "createdOn": "2024-11-13 09:24:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "30ce5b05-d6a2-4400-ab53-e1dcaf362a42",
+      "createdOn": "2024-11-13 09:22:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "164fe868-b717-45b9-8562-82c526f6eb10",
+      "createdOn": "2024-11-13 09:22:26",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "869c78f5-d5da-424f-8c7a-83160389bb07",
+      "createdOn": "2024-11-13 09:21:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9c0d52cd-bbff-4fc7-9e84-257c8cbb5a33",
+      "createdOn": "2024-11-13 09:19:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2ab50509-cd4a-4629-859f-45f7ac235641",
+      "createdOn": "2024-11-13 09:18:21",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d52dddf2-9633-49a2-8ac7-503252d4bca2",
+      "createdOn": "2024-11-13 09:17:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "dbeaecb3-75c9-4964-ab52-ffcecbcd9600",
+      "createdOn": "2024-11-13 09:11:07",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3465dde7-116b-49e0-adf6-1ff301393f99",
+      "createdOn": "2024-11-13 09:05:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b4078523-137d-47d6-afb9-4b3c19ca1a8d",
+      "createdOn": "2024-11-13 08:58:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d1de7558-57bb-48dd-94c2-8a34b6d28ff6",
+      "createdOn": "2024-11-13 08:58:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7b05877b-6450-4e8f-9afd-514be3cfc470",
+      "createdOn": "2024-11-13 08:57:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5fce3e1a-ccf6-4d37-8543-e8eaa51661e5",
+      "createdOn": "2024-11-13 08:56:29",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8bbd0deb-9434-4ae1-b1f9-bba24ad46e96",
+      "createdOn": "2024-11-13 08:52:41",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7413a5b2-caa6-4c78-89ca-4a50d6631a10",
+      "createdOn": "2024-11-13 08:49:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b4f1a764-45c7-4245-8ddd-a4422fbe22bc",
+      "createdOn": "2024-11-13 08:48:55",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5c4af651-9b88-4d6b-b0ce-8f96f69f6021",
+      "createdOn": "2024-11-13 08:48:46",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b6a45e76-3ce3-4281-8788-8447b8ebe498",
+      "createdOn": "2024-11-13 08:47:46",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fa0b559c-c05a-46b4-8deb-d614e964c623",
+      "createdOn": "2024-11-13 08:47:44",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "beaf3623-e98b-4968-8dfb-4f95ff018acb",
+      "createdOn": "2024-11-13 08:47:44",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d9374da1-19ff-4dbf-8b20-98f2cd74903c",
+      "createdOn": "2024-11-13 08:47:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6ce21cf2-7531-4426-acd1-452c4426423d",
+      "createdOn": "2024-11-13 08:47:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3489aa27-633f-4f18-867a-ed34d67ca2f7",
+      "createdOn": "2024-11-13 08:47:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6cf4ec10-b9d3-42fa-8979-28a349e4887f",
+      "createdOn": "2024-11-13 08:47:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "76bb89ec-796e-4020-998d-069211170fe5",
+      "createdOn": "2024-11-13 08:45:28",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3fa072fa-0975-4675-9096-c41aa55a4872",
+      "createdOn": "2024-11-13 08:45:26",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f4e4d619-47ba-447c-b191-10a8dcba305e",
+      "createdOn": "2024-11-13 08:45:23",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4d2903aa-c8bd-4046-90cc-9cdc33a88e1c",
+      "createdOn": "2024-11-13 08:43:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "62c314cb-c875-4b8b-aa28-8a5619e2e58c",
+      "createdOn": "2024-11-13 08:41:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3293938d-fe29-48ec-bdda-63bfec3c951a",
+      "createdOn": "2024-11-13 08:40:12",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9347a816-ef1a-40e7-b88c-b56c642c6ca5",
+      "createdOn": "2024-11-13 08:39:40",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "35c575e1-71df-4952-a67e-f1f6f277f82d",
+      "createdOn": "2024-11-13 08:36:08",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d2347bc2-6526-4e50-b995-4b25e865b579",
+      "createdOn": "2024-11-13 08:35:23",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b3dbb843-cae9-44d9-8abc-9830c95fac75",
+      "createdOn": "2024-11-13 08:34:55",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "cca3bfed-3ff6-4e8b-aff9-a34845b0f447",
+      "createdOn": "2024-11-13 08:34:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7638333a-5d09-4b1e-a26f-5edba347a5b4",
+      "createdOn": "2024-11-13 08:32:52",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "143d72c5-d1e0-433a-be5c-7683d7ccbc25",
+      "createdOn": "2024-11-13 08:29:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "32aa3be0-aa7d-4ed4-affb-5ef1fdfb34f9",
+      "createdOn": "2024-11-13 07:36:48",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "eafe866a-44eb-46e1-99f3-52aada3dece5",
+      "createdOn": "2024-11-13 07:35:41",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "43085b86-d452-40c3-befe-e386d8f4895c",
+      "createdOn": "2024-11-13 07:35:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1f3f8dec-9389-4d00-b5ed-c278bdbd814a",
+      "createdOn": "2024-11-13 07:34:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "62831eb1-fe49-4fdf-8fa0-15e1e58a8c66",
+      "createdOn": "2024-11-13 07:34:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "55b073a9-c471-4fe1-95cc-884b00b17e4d",
+      "createdOn": "2024-11-13 07:33:44",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "dc7b119c-79c4-40f0-911d-922e8e3228f2",
+      "createdOn": "2024-11-13 06:58:53",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "747b1956-e40e-4ed5-9425-77f9351089e9",
+      "createdOn": "2024-11-13 05:35:08",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e636fc04-1db6-4527-aeac-28d02f1fc18a",
+      "createdOn": "2024-11-13 05:31:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8125ff1c-d1f8-4163-aa68-4ee5b1d15fe7",
+      "createdOn": "2024-11-13 05:27:57",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4363836b-7733-4cdb-9132-d0ba6fdc1c89",
+      "createdOn": "2024-11-13 05:17:41",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3c15abcd-c35e-41e3-ae68-5c0ce5e1c359",
+      "createdOn": "2024-11-13 04:56:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "49aecf8b-5d74-4418-a4cd-54fb67afc62a",
+      "createdOn": "2024-11-13 04:21:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7e4b97e6-690e-4699-9882-e88e2302243d",
+      "createdOn": "2024-11-13 03:52:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "58bb04d1-dbf7-436a-b22d-3dfef1b53567",
+      "createdOn": "2024-11-13 03:49:18",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "359ff6dc-0a5f-4d7a-9c28-0320120350a7",
+      "createdOn": "2024-11-13 03:49:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "bd3ce898-d7e9-4f10-9e0c-b539f354dd89",
+      "createdOn": "2024-11-13 03:48:23",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "77c71777-e1cb-47ae-a0c4-99002bac15c5",
+      "createdOn": "2024-11-13 03:48:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ba64aec3-cd4c-4999-ab29-09e65b063443",
+      "createdOn": "2024-11-13 03:48:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e40e0267-00fd-41dd-91d4-0e9eb658eebd",
+      "createdOn": "2024-11-13 03:47:29",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4767394a-4d0e-46aa-a08f-f8a6b6edd011",
+      "createdOn": "2024-11-13 03:37:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c9e12d4f-3cf2-412a-8031-7dedfd7fd52d",
+      "createdOn": "2024-11-13 03:37:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2939c369-587d-490e-895f-4cc4c4fef353",
+      "createdOn": "2024-11-13 03:36:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "31f9fcc5-ab36-46f7-8a44-90d481b79e8a",
+      "createdOn": "2024-11-13 03:36:49",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a037d142-7848-4807-9c96-c5762a34e535",
+      "createdOn": "2024-11-13 03:36:40",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9457d1ec-1d0e-422b-a090-6dfd7e46cac0",
+      "createdOn": "2024-11-13 03:36:38",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "53e23022-a460-47df-bb16-5270c7b5c3c8",
+      "createdOn": "2024-11-13 03:36:34",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c8c65eee-2691-492c-8c6c-a585eef36897",
+      "createdOn": "2024-11-13 03:36:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ac0f4bf4-6526-46d4-be9a-07ddf023827a",
+      "createdOn": "2024-11-13 03:36:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7fa3d7c9-5fbc-4de9-9d48-c3958842b2ca",
+      "createdOn": "2024-11-13 03:36:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6af6ca69-86f7-4dd2-bcf5-9e1517f67c54",
+      "createdOn": "2024-11-13 03:35:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b14bf618-9434-4062-b686-6cd90d2ba255",
+      "createdOn": "2024-11-13 03:35:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8457efcc-f475-45b0-a6d5-dbdef3bc8506",
+      "createdOn": "2024-11-13 03:35:50",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b07e0a43-66c2-4e7d-b8bd-f2c460c4ed3e",
+      "createdOn": "2024-11-13 03:35:37",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "03b39f27-141a-485a-9fc1-bfc477b62a8e",
+      "createdOn": "2024-11-13 03:35:35",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1b29da45-c9e7-4df6-85ba-a957e58c2420",
+      "createdOn": "2024-11-13 03:35:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "10621835-dce5-4cbf-86ec-6ea8cbd81256",
+      "createdOn": "2024-11-13 03:35:21",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "432de2c4-6c84-41e7-ad31-bb5ab15fddf9",
+      "createdOn": "2024-11-13 03:35:12",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "07e1c1a3-2264-4a36-ad6d-9f5ab74435ce",
+      "createdOn": "2024-11-13 03:35:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d49c7f88-060b-4730-aa0b-1d8436af1eb9",
+      "createdOn": "2024-11-13 03:34:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "944c0b71-a526-4bd6-976a-981dced41bc2",
+      "createdOn": "2024-11-13 03:34:28",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "20745c7c-458b-4423-975a-5f27d619c3ba",
+      "createdOn": "2024-11-13 03:34:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "98c6b885-9644-4c14-906d-e3e93da72587",
+      "createdOn": "2024-11-13 03:34:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "936e1fdb-b599-43de-a212-3ad85d7f352f",
+      "createdOn": "2024-11-13 03:33:46",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e408f954-8171-485d-8779-69a72efa2302",
+      "createdOn": "2024-11-13 03:33:45",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "68330420-2900-481b-b9c1-776bf9c5fbec",
+      "createdOn": "2024-11-13 03:33:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0ddbf9c9-be7f-4980-9280-098813c645dc",
+      "createdOn": "2024-11-13 03:18:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "328944e7-2efe-4a56-af28-3c24878d8e9c",
+      "createdOn": "2024-11-13 02:32:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "71e97195-e978-47d6-91ff-87a3200b7061",
+      "createdOn": "2024-11-13 02:31:55",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c8b68b68-fd2d-478a-9240-a714e1a44a74",
+      "createdOn": "2024-11-13 02:31:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a9d22237-f2cd-46ef-b157-e854eeb042fd",
+      "createdOn": "2024-11-13 02:30:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "10bf2fbf-186a-41cb-8dce-1f0a70e4d4dc",
+      "createdOn": "2024-11-13 02:29:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6eee7e3a-d3e3-46de-a2eb-c87fa4a2a293",
+      "createdOn": "2024-11-13 02:23:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "76fb7fb3-16db-46bb-bea2-801e4052cbca",
+      "createdOn": "2024-11-13 02:23:04",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c73a1063-4b87-4b6b-b0f7-43c46d53342f",
+      "createdOn": "2024-11-13 02:22:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "145d53e3-9c1c-4ba7-be68-15cc09f7f907",
+      "createdOn": "2024-11-13 02:21:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c274d7ba-014b-4975-b77d-6600428088ad",
+      "createdOn": "2024-11-13 02:20:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "26df2c12-4d86-4e95-996e-c4f0e7fa3bd2",
+      "createdOn": "2024-11-13 02:05:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "faeb2494-bd8b-4c9e-ac22-76fa7aff03e9",
+      "createdOn": "2024-11-13 02:03:53",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "38de43a8-b15b-4d9f-8461-d9d33969cfd2",
+      "createdOn": "2024-11-13 02:03:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e83e2cf7-0992-4e42-a396-9a8eb715edd5",
+      "createdOn": "2024-11-13 01:45:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e4014cc0-5032-40df-9cfb-9157d0f7067f",
+      "createdOn": "2024-11-12 20:23:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "81ca31c0-0a78-477c-a686-c58cdbf342f8",
+      "createdOn": "2024-11-12 20:07:23",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "cf744d91-fe47-40dd-8a11-8326552bd046",
+      "createdOn": "2024-11-12 20:01:48",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a5bc93a7-cfc0-49b5-ac7d-177b653888f0",
+      "createdOn": "2024-11-12 19:54:52",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e16ba756-0723-4ec4-a4a3-be4e751c15f0",
+      "createdOn": "2024-11-12 19:51:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "dfc4796e-4dba-4443-8a5a-95cf89e50c0a",
+      "createdOn": "2024-11-12 19:34:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1fcd18ec-40d2-4153-9225-cb3e028374d6",
+      "createdOn": "2024-11-12 19:32:21",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d298bc7f-47be-42c2-80d7-2ab324e87ee8",
+      "createdOn": "2024-11-12 19:29:41",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1d026d1d-ed99-4220-ae47-04188c3df4d0",
+      "createdOn": "2024-11-12 19:10:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "449aaac9-8fe8-4039-9ed1-27497b682184",
+      "createdOn": "2024-11-12 19:02:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0e77787b-53a8-46a8-9a91-e457c9f8a59a",
+      "createdOn": "2024-11-12 18:52:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b1947ae3-afc2-4666-b301-0b96fcb2b302",
+      "createdOn": "2024-11-12 18:50:26",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d75e143e-a136-4fb1-a828-6d21635817e1",
+      "createdOn": "2024-11-12 18:33:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5c58da8b-d62e-492b-92a3-68665701eb83",
+      "createdOn": "2024-11-12 18:31:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "72662bbf-1f76-43e8-b839-415465b24adf",
+      "createdOn": "2024-11-12 18:30:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b98d1822-465e-4361-aa89-b20b06b68fa5",
+      "createdOn": "2024-11-12 18:25:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "64fd7dbf-884f-4754-a1e7-80c9aa25764f",
+      "createdOn": "2024-11-12 18:23:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "236428e5-a42c-48df-8c5c-5f8c04632486",
+      "createdOn": "2024-11-12 18:12:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "67a7b7c8-954b-45bc-bd12-1af8439c8803",
+      "createdOn": "2024-11-12 18:09:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ad8515c9-34fb-4647-9b69-f4718ac3b6e2",
+      "createdOn": "2024-11-12 18:06:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0d199f0b-ca92-4fd5-9534-2a81e8527638",
+      "createdOn": "2024-11-12 18:03:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7b993beb-c076-4b83-9a32-8c34a1541bb9",
+      "createdOn": "2024-11-12 17:49:44",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1f7853ee-6af1-4484-b3d6-d4bed992e198",
+      "createdOn": "2024-11-12 17:42:40",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d76c034d-bcdf-4cce-9033-b80bfdc30fc9",
+      "createdOn": "2024-11-12 17:39:53",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "521c045f-7d0c-4321-98d5-b09e04c3becf",
+      "createdOn": "2024-11-12 17:30:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "593b6a71-eea0-40a4-a6d1-f1b498ae5e63",
+      "createdOn": "2024-11-12 17:05:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "da6fd1bc-e85a-437e-ad32-104fd4bd1c43",
+      "createdOn": "2024-11-12 16:46:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6ec33667-8861-4431-a700-52c1e3a57f0b",
+      "createdOn": "2024-11-12 16:39:57",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5c226299-c3ab-4682-8432-0612b9c5f05c",
+      "createdOn": "2024-11-12 16:39:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8489b46e-2273-45be-9693-6db78e603e87",
+      "createdOn": "2024-11-12 16:33:52",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6cf2712c-993e-4ddf-a93b-c3300868287d",
+      "createdOn": "2024-11-12 16:25:55",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ba013bad-6c1b-476e-9097-19fdb26a818f",
+      "createdOn": "2024-11-12 16:23:40",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0a182896-e1e4-4310-836b-1f23365a27fc",
+      "createdOn": "2024-11-12 16:21:44",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a03ff240-75aa-4ab6-a10b-2b7361fdefcc",
+      "createdOn": "2024-11-12 16:13:26",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6b9ba21c-ee95-4da2-b719-3d800d157f4c",
+      "createdOn": "2024-11-12 16:03:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ee3ecf17-7c1a-448a-a0e5-c83d8102a138",
+      "createdOn": "2024-11-12 16:02:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0e1f595d-9d84-4fbc-bb74-8e99fdc6564a",
+      "createdOn": "2024-11-12 15:57:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7fbacc76-c410-4ae3-a9c9-5589a18fcc06",
+      "createdOn": "2024-11-12 15:56:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2873d1e5-c513-431a-9307-7ce5891d1721",
+      "createdOn": "2024-11-12 15:56:08",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "123af33a-2924-49fd-8615-45bf6becbda1",
+      "createdOn": "2024-11-12 15:56:08",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3140e9eb-d6a3-48e0-aca0-c381766cd558",
+      "createdOn": "2024-11-12 15:49:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "09ca1d22-0175-472d-8d3a-1dad4869ac6c",
+      "createdOn": "2024-11-12 15:36:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "73ee01d3-cfaa-481d-a744-cc4f5ee46110",
+      "createdOn": "2024-11-12 15:35:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b1d44a5d-976f-4b86-86f4-1788a557f99a",
+      "createdOn": "2024-11-12 15:25:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "62efca44-7799-4fc2-a2b3-1ad1ec3581c7",
+      "createdOn": "2024-11-12 15:22:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "aa0802c6-612b-4c76-9e33-43c4be1ca085",
+      "createdOn": "2024-11-12 15:22:23",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1a7f4ce3-729d-40b6-8c27-daff27300680",
+      "createdOn": "2024-11-12 15:22:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "251da85c-0fe2-42c8-ab20-c007ab1cf669",
+      "createdOn": "2024-11-12 15:05:53",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3eea779a-cbf2-4b7b-82a5-4d382ae266b1",
+      "createdOn": "2024-11-12 15:01:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "134ec437-6eed-4be0-a880-45a542316e5c",
+      "createdOn": "2024-11-12 14:59:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8c988c4e-b342-49b5-9081-78f40400daab",
+      "createdOn": "2024-11-12 14:57:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1f7b2747-ba0c-4c04-9a45-58a1aa6caa12",
+      "createdOn": "2024-11-12 14:55:06",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5b9100fd-7ad5-454f-bf70-582956a20f9e",
+      "createdOn": "2024-11-12 14:54:52",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f637ca89-9909-4e68-bc7a-d34ad0236bc9",
+      "createdOn": "2024-11-12 14:54:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "23ccf261-553f-4e9f-9a2a-19d1436f72f3",
+      "createdOn": "2024-11-12 14:54:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "144fbafb-9558-44b7-ab2d-f3243e220ca9",
+      "createdOn": "2024-11-12 14:54:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1a45b2ed-9080-44bc-abbf-b9e02e677023",
+      "createdOn": "2024-11-12 14:53:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fe7da07b-3083-421e-970d-43789861e224",
+      "createdOn": "2024-11-12 14:51:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "59ab2d8c-877b-4a1e-93c9-f37123e1d5ac",
+      "createdOn": "2024-11-12 14:45:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ab681cb8-99ba-4452-9b0f-4566a882dc15",
+      "createdOn": "2024-11-12 14:44:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4f49bd1d-baa8-4847-b379-3bd59fc31c1d",
+      "createdOn": "2024-11-12 14:44:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2cccb612-96ef-4c06-a758-f903cf31e955",
+      "createdOn": "2024-11-12 14:43:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "bd263e8a-1dea-43fa-b943-bc6b85cf8030",
+      "createdOn": "2024-11-12 14:43:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5e7604fa-6af5-4c6e-b423-283ab35af3eb",
+      "createdOn": "2024-11-12 14:42:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "230794b0-9e31-4612-8b5e-97000b548cdf",
+      "createdOn": "2024-11-12 14:42:49",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9904115f-e309-47e5-9c20-977dfb4f3a58",
+      "createdOn": "2024-11-12 14:42:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d6ad4afa-23cc-40b9-8e0c-884f1adb7579",
+      "createdOn": "2024-11-12 14:41:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "da357211-f831-4894-8a63-f4a06cffd7d3",
+      "createdOn": "2024-11-12 14:41:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "80404bed-e8a2-4eef-9b7b-a89c76858b31",
+      "createdOn": "2024-11-12 14:41:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "551ebfbe-dc22-49e1-b6b4-8a81a8c2c127",
+      "createdOn": "2024-11-12 14:41:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7d7a5854-5407-47ca-bf44-6d557e63ac87",
+      "createdOn": "2024-11-12 14:41:12",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "faa87a9b-11c2-43e4-ba60-0faa8e45b650",
+      "createdOn": "2024-11-12 14:41:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3327af93-1c14-4390-bb2e-370d2ed30788",
+      "createdOn": "2024-11-12 14:41:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "31045643-d7ba-4250-9f87-b2ecb6421ca8",
+      "createdOn": "2024-11-12 14:41:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a7816dfe-de4e-48ea-8aa0-79cd88db8e91",
+      "createdOn": "2024-11-12 14:40:06",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f61cd43f-ce4d-454c-b534-1f3da324be79",
+      "createdOn": "2024-11-12 14:40:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "da772b6d-799e-41b1-b22b-a9b05c51c8a3",
+      "createdOn": "2024-11-12 14:40:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d50928c8-5938-446c-ac42-acb9a140265d",
+      "createdOn": "2024-11-12 14:40:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "92e9772b-57f3-45e5-adc5-5a5bc743b0ab",
+      "createdOn": "2024-11-12 14:40:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b3dd58d7-2cb2-42e0-8052-3f0a9698d4f9",
+      "createdOn": "2024-11-12 14:39:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8109d459-d67a-4bb5-af1f-a9004c3334df",
+      "createdOn": "2024-11-12 14:39:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8d1e9684-f50a-4086-9244-e288eefeb619",
+      "createdOn": "2024-11-12 14:39:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d436487f-893d-4708-a160-30d829a4a81c",
+      "createdOn": "2024-11-12 14:38:41",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f27e0572-85dd-4664-bd73-4cdcc9dd6a4b",
+      "createdOn": "2024-11-12 14:38:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7b5eca11-f3c8-4190-abb7-82c6484f606e",
+      "createdOn": "2024-11-12 14:37:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "94a9d0f8-2ee7-4c73-88b5-a8ff3560d2c9",
+      "createdOn": "2024-11-12 14:37:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "275265f7-d6e4-44dd-9a84-67ae82a306b7",
+      "createdOn": "2024-11-12 14:37:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "cb37c7a0-9d5a-4c18-ba7d-558d2f54de8f",
+      "createdOn": "2024-11-12 14:36:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5d7853c3-d15e-422b-9ba0-4c6b5a2157a9",
+      "createdOn": "2024-11-12 14:36:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "337a9f34-34da-4592-9bcd-85de1f5c576c",
+      "createdOn": "2024-11-12 14:34:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4eda267d-1ee6-45dc-881a-9ac30d2fbc46",
+      "createdOn": "2024-11-12 14:34:50",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e71a067e-c028-4727-8159-8c2c8972bdbd",
+      "createdOn": "2024-11-12 14:33:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2d690754-1c16-4e89-a403-491a9b0e5fce",
+      "createdOn": "2024-11-12 14:33:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "095e8cef-5e25-4ccd-842e-a49f11f64204",
+      "createdOn": "2024-11-12 14:32:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "522185a4-4d95-4b7f-ac7e-82013629d821",
+      "createdOn": "2024-11-12 14:31:41",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9c796f4a-d8ba-4e22-a746-0598c67b821f",
+      "createdOn": "2024-11-12 14:30:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fb6c784f-1fd9-469c-983c-19b652024d82",
+      "createdOn": "2024-11-12 14:30:41",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c1dad013-d993-4937-a973-a1882c58cfc7",
+      "createdOn": "2024-11-12 14:30:40",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "df0cd069-b89d-4c47-b38e-a8ef5428bf6c",
+      "createdOn": "2024-11-12 14:30:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "66fe404a-3d9c-4f18-b929-f23773bb27f9",
+      "createdOn": "2024-11-12 14:30:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b351c299-b6e7-4556-974f-d9b1b5473294",
+      "createdOn": "2024-11-12 14:29:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "59208647-b472-4b63-8002-770cf64864ca",
+      "createdOn": "2024-11-12 14:28:37",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ea9f94ed-5808-4f58-b918-b8a56809d774",
+      "createdOn": "2024-11-12 14:28:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "108ddedb-b29a-4b32-b36e-3bc84c4be695",
+      "createdOn": "2024-11-12 14:28:35",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "003d67ba-3371-4698-a8ca-a29ae716a7f4",
+      "createdOn": "2024-11-12 14:28:33",
+      "numberOfActive": 1,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ca3fb1ab-4e7a-4a58-a9ba-cebeb38d5e6b",
+      "createdOn": "2024-11-12 14:27:37",
+      "numberOfActive": 1,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "eac9ab6b-62b6-477d-8177-31cd95701036",
+      "createdOn": "2024-11-12 14:27:35",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1e68e662-7ddb-42fa-b995-eb380c242d35",
+      "createdOn": "2024-11-12 14:27:34",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a5b88501-3328-414a-9276-4fe9ccde2b9d",
+      "createdOn": "2024-11-12 14:27:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "84cd0804-896a-4efc-bc2a-b7c832263586",
+      "createdOn": "2024-11-12 14:24:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ff5550e4-74f2-4ec5-b339-2436ca2e6c2c",
+      "createdOn": "2024-11-12 14:23:18",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "536cdfa6-3515-47b2-bd90-03f1a32e6afc",
+      "createdOn": "2024-11-12 14:22:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "546d266e-2657-4606-b854-dae170e18d6e",
+      "createdOn": "2024-11-12 14:19:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "50f873a0-90f0-4a4e-a741-cc03e00d769f",
+      "createdOn": "2024-11-12 14:13:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e496e22a-ee10-4f4b-845f-e85bd5f407bb",
+      "createdOn": "2024-11-12 14:10:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "afd3050b-9820-461e-8699-847596842261",
+      "createdOn": "2024-11-12 13:58:14",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a58352af-b9f2-4530-80bb-8e4fcd62aef3",
+      "createdOn": "2024-11-12 13:57:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "46ce5886-a8ee-47b3-a8fb-de5941c51d57",
+      "createdOn": "2024-11-12 13:57:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "bd85dd39-64ea-4b2f-8bc8-c7e3acfca948",
+      "createdOn": "2024-11-12 13:57:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "bf6b73fd-8481-4149-9614-3255f2567994",
+      "createdOn": "2024-11-12 13:55:18",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0f0ed5d5-b646-4d94-9545-f3947683d751",
+      "createdOn": "2024-11-12 13:55:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9ab0297f-c42e-4614-9aa9-f6a6b2b8508f",
+      "createdOn": "2024-11-12 13:55:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "54de1aea-624b-4f6d-8dac-26577568c602",
+      "createdOn": "2024-11-12 13:54:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "109e5083-9129-4abf-8fe6-9a35331e2128",
+      "createdOn": "2024-11-12 13:54:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8e588a6a-e44e-43ba-987d-5c680cee8e38",
+      "createdOn": "2024-11-12 13:52:29",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c50eb1fa-b355-424f-9348-ebae14831aa4",
+      "createdOn": "2024-11-12 13:42:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "38e7e7e5-b3e6-4150-bece-6c1bc34833a5",
+      "createdOn": "2024-11-12 13:37:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ef9c6efb-23b2-47de-b8f8-3de3b052f8eb",
+      "createdOn": "2024-11-12 13:36:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c1baba64-fe18-4ff6-a94f-6b39b5d07c80",
+      "createdOn": "2024-11-12 13:35:14",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ceeddc50-7fab-4b60-a87a-8091b88551b3",
+      "createdOn": "2024-11-12 13:33:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "11f68c65-1a38-4ad2-8411-e8e226cf985d",
+      "createdOn": "2024-11-12 13:32:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3a8cf10a-ea9f-47d2-90b5-0e4c74e38a0c",
+      "createdOn": "2024-11-12 13:30:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d114a468-0ea8-44d3-bfac-25cc99bd8327",
+      "createdOn": "2024-11-12 13:24:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f6ac6c6c-b928-4a0e-924f-5f27903fd16b",
+      "createdOn": "2024-11-12 13:19:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9877b74b-e1af-466b-bd51-a577f7eae67f",
+      "createdOn": "2024-11-12 13:17:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "11e0cbc4-031a-46ea-bc9f-c5040bbcd106",
+      "createdOn": "2024-11-12 13:15:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c0e75bbc-0f99-4f5f-a06f-e5f0d1a70c62",
+      "createdOn": "2024-11-12 13:14:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0c274430-7310-4ec5-93ac-7ed4135eee93",
+      "createdOn": "2024-11-12 13:07:55",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "10bfbf53-5395-4838-86c6-cb29be64a4ac",
+      "createdOn": "2024-11-12 12:59:35",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8660ce32-1c54-4aeb-a033-53c2968428b3",
+      "createdOn": "2024-11-12 12:55:30",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e8847883-df3e-40db-ae78-752576a5f392",
+      "createdOn": "2024-11-12 12:55:29",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5feaa69d-19b8-4577-bdae-b94eb958255f",
+      "createdOn": "2024-11-12 12:55:28",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "258d06d1-362d-4607-aae4-b0bcfc026c4e",
+      "createdOn": "2024-11-12 12:49:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "47cb1573-ec06-420b-bca6-cebbcdd169e2",
+      "createdOn": "2024-11-12 12:47:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "be155ec9-b27e-4358-a419-d0adcf9da66a",
+      "createdOn": "2024-11-12 12:33:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2bacb769-4ab2-4127-830a-a13b8e46d0d2",
+      "createdOn": "2024-11-12 12:33:04",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "99b14037-0ace-4148-a0d7-2b5d0b85499f",
+      "createdOn": "2024-11-12 12:33:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6c114533-9cd2-4bea-96e9-6c81f9f00c06",
+      "createdOn": "2024-11-12 12:32:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b0d4b389-3e09-44c8-b4b7-f589bf1ac3a8",
+      "createdOn": "2024-11-12 12:31:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "938c0902-8eb6-4067-9c69-d0e9a3522949",
+      "createdOn": "2024-11-12 12:31:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3cf92876-ed25-48ff-a8a4-12203136fd9a",
+      "createdOn": "2024-11-12 12:30:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "aad07653-2134-4811-962c-13239a5ac169",
+      "createdOn": "2024-11-12 12:30:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "41ed793d-c124-45bf-94c1-de567bbfbefa",
+      "createdOn": "2024-11-12 12:30:57",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d5d93f64-41ed-4e1b-975b-63dc66889293",
+      "createdOn": "2024-11-12 12:29:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "add2be11-d51f-42d1-8168-52c5ed0f8d4d",
+      "createdOn": "2024-11-12 12:25:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9f92f321-e5bd-4d29-be61-2c1552da3b59",
+      "createdOn": "2024-11-12 12:20:50",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1c40e242-1b58-4932-b724-490f3eadb5b3",
+      "createdOn": "2024-11-12 12:20:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d217f2aa-2c04-49a3-847c-dda75451523d",
+      "createdOn": "2024-11-12 12:19:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "774ffcb4-4bad-4f8c-ba59-afaa1fcc4b9a",
+      "createdOn": "2024-11-12 12:18:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a4a4a6e0-11c5-47e9-957a-9bb0e64ca443",
+      "createdOn": "2024-11-12 12:17:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "067129e2-e06e-41be-9762-03576870ac87",
+      "createdOn": "2024-11-12 12:16:46",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c6d7e7b0-c7b1-4be0-8d2b-bb52f5b47a52",
+      "createdOn": "2024-11-12 12:16:44",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ab43b894-5d9a-484d-9086-0bd112add5a4",
+      "createdOn": "2024-11-12 12:14:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "549efe79-780a-41f5-b537-483984d49265",
+      "createdOn": "2024-11-12 12:11:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b4d1a72d-92f9-4374-b161-617f63e08234",
+      "createdOn": "2024-11-12 12:11:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0fa0a962-84ce-4271-a02d-07e9f03ab756",
+      "createdOn": "2024-11-12 12:10:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "79db247c-e5d1-4728-a37c-f8a88d56b065",
+      "createdOn": "2024-11-12 12:09:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "22b96264-1cfa-479f-b8a4-56276ce904f0",
+      "createdOn": "2024-11-12 12:08:34",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9d2781d4-7308-4f39-8831-a384d8f8d40b",
+      "createdOn": "2024-11-12 12:08:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6203dc55-aef1-4f71-b81d-72680b52ec6c",
+      "createdOn": "2024-11-12 12:08:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "309c31be-bab8-4fae-8a22-a13439f5efb5",
+      "createdOn": "2024-11-12 11:28:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3ff03e3b-ec08-40dc-b737-f9359189a245",
+      "createdOn": "2024-11-12 11:21:35",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a7b76657-0b6c-4f1d-a1ff-64aa319d2528",
+      "createdOn": "2024-11-12 11:20:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "97df8680-b73d-4cf4-96ae-e74388bec110",
+      "createdOn": "2024-11-12 11:19:41",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a4fd3766-0039-4b75-96f2-09922f4664dc",
+      "createdOn": "2024-11-12 11:19:26",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6401be7f-f4be-47f7-9fd6-7151d55c55e7",
+      "createdOn": "2024-11-12 11:18:04",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "15b4e6d0-c32f-4430-b720-c8d0495ee404",
+      "createdOn": "2024-11-12 11:16:46",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "cbda38ba-2e32-4b0a-95c3-d27f446a427c",
+      "createdOn": "2024-11-12 11:16:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9a221aef-f28b-4fa6-b382-f8daaa5474c6",
+      "createdOn": "2024-11-12 11:16:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3fe168ed-19cf-44b2-884e-037bd15f0e09",
+      "createdOn": "2024-11-12 11:14:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7b870551-bd7c-4032-9f95-bfa4943955c3",
+      "createdOn": "2024-11-12 11:13:29",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6c5e1100-2fe4-45d4-9e47-4ee0c77af97b",
+      "createdOn": "2024-11-12 11:12:50",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8c30c8de-dc46-403c-a553-cc9aa54a0562",
+      "createdOn": "2024-11-12 11:12:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "aadefe03-00f8-4836-b12c-4d61e4ac9e57",
+      "createdOn": "2024-11-12 11:12:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1845a67a-75af-4c9d-b6c7-299e9b9a6b49",
+      "createdOn": "2024-11-12 11:09:34",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "acb7a515-f478-4527-bd5b-c422cd5a7555",
+      "createdOn": "2024-11-12 11:09:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fe11fb06-9479-4152-9207-7bfa5a6d325a",
+      "createdOn": "2024-11-12 11:08:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "09a887c9-be52-45de-93fe-2bbc1e63e227",
+      "createdOn": "2024-11-12 11:06:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8887a2ef-bb1a-4ca1-bbd5-73e818d217a5",
+      "createdOn": "2024-11-12 11:05:18",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "77840176-867c-4eed-b03e-cf2ef74fb305",
+      "createdOn": "2024-11-12 11:04:37",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "30b17703-df0f-4df5-a885-bf85ca004276",
+      "createdOn": "2024-11-12 11:03:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b61c0b86-71f1-4acd-b13f-ea267db28118",
+      "createdOn": "2024-11-12 11:02:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4937563c-1864-47c5-8695-1914ff0c76a6",
+      "createdOn": "2024-11-12 11:01:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1f8fc47d-1c0f-497f-a194-330b2dc6fd2a",
+      "createdOn": "2024-11-12 11:01:40",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f865a33f-5722-4e52-812a-ea8c0ea9c481",
+      "createdOn": "2024-11-12 11:01:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b0de7012-322a-47a8-b757-0ce6eef2b2c5",
+      "createdOn": "2024-11-12 10:58:12",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e679ca4b-9b2a-40cf-a9ee-ff899ce50ead",
+      "createdOn": "2024-11-12 10:57:55",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6a799245-e1c9-40fc-95b6-6ba8311d1e60",
+      "createdOn": "2024-11-12 10:56:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "dcef9f35-5870-485d-ab3e-9cd28157517b",
+      "createdOn": "2024-11-12 10:56:12",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "abf543d6-eebf-4077-8ee9-ceb0f364482f",
+      "createdOn": "2024-11-12 10:55:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "234ec9d8-eda1-4be6-ad94-4790162bbc1d",
+      "createdOn": "2024-11-12 10:55:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a1d23e2e-79cf-49e1-834f-77237bd43a68",
+      "createdOn": "2024-11-12 10:54:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "08445ae4-fa94-427b-aa37-83077004387a",
+      "createdOn": "2024-11-12 10:53:45",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3b6744e1-d86b-4102-9ecb-11b696f811a8",
+      "createdOn": "2024-11-12 10:52:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "263e397c-99c5-44f6-b90b-583d855e44df",
+      "createdOn": "2024-11-12 10:52:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ad0d2d84-4a71-4aad-b2cf-2476d7faaca9",
+      "createdOn": "2024-11-12 10:52:08",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "aa7a2d8f-751c-4780-b6bf-d1486a40e0e4",
+      "createdOn": "2024-11-12 10:44:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3127ef02-dc5d-4c8f-aa25-227542069949",
+      "createdOn": "2024-11-12 10:43:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ce4e3ece-0fdd-4a91-90a5-d0e09abba807",
+      "createdOn": "2024-11-12 10:40:55",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "dbdd1695-c701-41ba-bea8-df500f19ea6c",
+      "createdOn": "2024-11-12 10:37:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "74c15ad3-c64f-48f6-a26c-dec605a81459",
+      "createdOn": "2024-11-12 10:36:46",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d87fe51e-70a5-4761-b943-bf947ef78c02",
+      "createdOn": "2024-11-12 10:34:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5df9a5cf-0d06-4e1b-afb2-11ed509d30f6",
+      "createdOn": "2024-11-12 10:31:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ac480c8f-d573-4bfd-a54c-327c477e1ef2",
+      "createdOn": "2024-11-12 10:30:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c009c494-6da8-47e1-b971-6668cd5d4f08",
+      "createdOn": "2024-11-12 10:29:12",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1f23878f-e27f-4af5-986e-722fdbeca9f4",
+      "createdOn": "2024-11-12 10:28:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fe351604-6044-4ce8-979b-b2293c131d8b",
+      "createdOn": "2024-11-12 10:28:29",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "65cab544-7a4a-4720-826c-8001b23a86aa",
+      "createdOn": "2024-11-12 10:27:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "88e9a8dd-2250-4822-b995-861009ba1857",
+      "createdOn": "2024-11-12 10:25:50",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e0e3ef97-3847-4076-8e87-bd2035279830",
+      "createdOn": "2024-11-12 10:22:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "86cbd36c-efab-4e46-bb6c-4887e2f0a2ef",
+      "createdOn": "2024-11-12 10:21:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "77046aae-230f-47de-afb0-cccd5a005036",
+      "createdOn": "2024-11-12 10:21:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6d67be09-cbb0-4006-8d6f-9f5a22ff7200",
+      "createdOn": "2024-11-12 10:19:52",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ce52c4c1-4f87-4d26-a433-490aa6b66aea",
+      "createdOn": "2024-11-12 10:19:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e65ad0e8-ea7d-4360-817c-93c8614767c8",
+      "createdOn": "2024-11-12 10:18:14",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "941b4123-ab88-4cb2-93d0-2339a1220cfe",
+      "createdOn": "2024-11-12 10:17:04",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "96d81aab-2429-4cc4-8104-7f1c909b30cb",
+      "createdOn": "2024-11-12 10:15:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "729be3b3-a7c3-4bd1-b9ad-09556157a031",
+      "createdOn": "2024-11-12 10:15:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "249bbd18-39fb-456a-addb-a26cd9d3ba90",
+      "createdOn": "2024-11-12 10:15:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6cd1e4cf-2e54-44f0-9763-58236abdc25f",
+      "createdOn": "2024-11-12 10:13:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6fd63651-c0cb-475e-bf62-3a111a3470e5",
+      "createdOn": "2024-11-12 10:12:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b4076956-602a-4f3f-a504-231ff48f775e",
+      "createdOn": "2024-11-12 10:11:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "77434b90-f603-4883-960d-cb61e465a3f4",
+      "createdOn": "2024-11-12 10:05:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "265a3e9b-c6a3-4f30-8dbd-b7b44fd58d32",
+      "createdOn": "2024-11-12 10:05:23",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e8dbb13c-ecaf-4035-81a4-db67ca76a8e6",
+      "createdOn": "2024-11-12 10:03:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fa9de663-5d7c-48ee-9dbf-a26a477c158f",
+      "createdOn": "2024-11-12 10:02:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "05882a8b-2672-444f-a452-b04a617f6a0f",
+      "createdOn": "2024-11-12 10:00:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9d3dd3f2-719c-439d-abbe-d5f65096683a",
+      "createdOn": "2024-11-12 09:55:08",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "38d547de-bcac-41a9-b010-c62134adb6ef",
+      "createdOn": "2024-11-12 09:54:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0f83858f-3b22-4076-93c7-f50d7cc5e03b",
+      "createdOn": "2024-11-12 09:54:08",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b0709dad-43da-4f7f-91be-c9f533defac9",
+      "createdOn": "2024-11-12 09:54:07",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2a0f18c9-492b-4fd7-9785-66391e26f5b3",
+      "createdOn": "2024-11-12 09:54:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ed8154e4-9607-4c1b-b039-a307537fdb69",
+      "createdOn": "2024-11-12 09:54:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6eb54eb2-2433-4695-b437-f3218684a184",
+      "createdOn": "2024-11-12 09:54:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7c4df8b8-8608-4ba7-b89b-efd3c7cae031",
+      "createdOn": "2024-11-12 09:53:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5c6ca750-5bfe-4a45-bd2c-0997adc287c4",
+      "createdOn": "2024-11-12 09:53:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "137a67a9-ddbe-4aba-a383-4debc1c39c81",
+      "createdOn": "2024-11-12 09:51:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8fe7a443-77c0-4a58-b27b-77b539d5a7a1",
+      "createdOn": "2024-11-12 09:50:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d9c1ef0f-6693-47ef-a01c-230a07bcdbc1",
+      "createdOn": "2024-11-12 09:48:52",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ba0239f5-d8c0-48ef-a663-7fab9d3bf857",
+      "createdOn": "2024-11-12 09:47:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a1792318-3fa0-4d29-bc05-97968f8f1942",
+      "createdOn": "2024-11-12 09:47:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "301c80fe-ebcc-42dd-83b5-824012adeff9",
+      "createdOn": "2024-11-12 09:44:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0c7d27ec-8387-48bc-aa06-981c98f501a6",
+      "createdOn": "2024-11-12 09:43:38",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "69c8f5d2-b039-4751-b731-5e8cefbe5ee6",
+      "createdOn": "2024-11-12 09:42:37",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ad11d8ed-1a34-4f81-884d-c49f56990219",
+      "createdOn": "2024-11-12 09:42:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "14153641-54e2-427f-9532-171a2db0275a",
+      "createdOn": "2024-11-12 09:41:34",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e0a32dd9-b561-42a9-8abe-f12f51268b8b",
+      "createdOn": "2024-11-12 09:28:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9b87a74f-505c-487f-9ac7-5b9e0b8bb88a",
+      "createdOn": "2024-11-12 09:24:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4e0e4dbc-0a5f-4782-aba3-11c0250f96ea",
+      "createdOn": "2024-11-12 09:24:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "96cf3ded-1a15-4f1e-a084-13865002878a",
+      "createdOn": "2024-11-12 09:24:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f09881ce-7f71-4294-83b1-dd4efd6bdd2b",
+      "createdOn": "2024-11-12 09:24:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1c28b3c0-74ce-4fe9-bff9-11ec2216f5a0",
+      "createdOn": "2024-11-12 09:24:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7ac9839b-5226-400a-9ab7-d67faa24e44a",
+      "createdOn": "2024-11-12 09:24:14",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "145d3d3a-12aa-496f-b5da-f67c37efb5d6",
+      "createdOn": "2024-11-12 09:22:12",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "afa1af0b-a977-4fdc-9cfc-66b76f374764",
+      "createdOn": "2024-11-12 09:22:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8c0475d9-7440-46be-abf8-cc16b4405307",
+      "createdOn": "2024-11-12 09:08:18",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "16c3f9d2-eb7f-4f6c-a82e-9ed98c721586",
+      "createdOn": "2024-11-12 09:00:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "436ad343-a0dc-420f-b56a-22625dd92cf2",
+      "createdOn": "2024-11-12 09:00:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2c941b26-3c25-4d33-9770-d6c094ba04d2",
+      "createdOn": "2024-11-12 08:59:44",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8f9b5e91-2ea4-4c30-9b6a-0f27cdaa6eba",
+      "createdOn": "2024-11-12 08:58:07",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "cd4f56cc-e589-473c-a535-f23a729e0172",
+      "createdOn": "2024-11-12 08:56:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9d6b9cf4-c0c3-46b3-a136-5946ed0cc69f",
+      "createdOn": "2024-11-12 08:53:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "850ec8dc-848d-43ee-9b89-2726abfff947",
+      "createdOn": "2024-11-12 08:51:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4b1e6d78-cb93-435d-afd7-548d9f16f737",
+      "createdOn": "2024-11-12 08:43:29",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d156d129-0d76-41c3-b57b-10374fdbb80e",
+      "createdOn": "2024-11-12 08:42:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2828d191-e750-40fd-bca8-ee890241472a",
+      "createdOn": "2024-11-12 08:41:04",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9ec06889-e4bd-43d7-bcb2-b554bb39cd59",
+      "createdOn": "2024-11-12 08:41:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "96ab4614-8f19-4928-8758-e58e364d86e5",
+      "createdOn": "2024-11-12 08:20:45",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "740aaf1a-7547-410b-bc6e-05954a38e4da",
+      "createdOn": "2024-11-12 08:19:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "91dbfdc2-d44e-4c21-9ad9-d26a7a07717e",
+      "createdOn": "2024-11-12 08:19:45",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1f86d895-3f66-414d-a319-fcdee29f30b1",
+      "createdOn": "2024-11-12 08:19:44",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d25aceaf-5026-41db-9211-2353be15c74b",
+      "createdOn": "2024-11-12 08:19:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "48f62c22-8561-4b2b-8c47-16e2c00915d9",
+      "createdOn": "2024-11-12 08:18:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a9e5496a-3e4d-492a-8d5b-f607424f8e37",
+      "createdOn": "2024-11-12 08:15:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "19430c63-6b79-427b-a5f9-69e147317cea",
+      "createdOn": "2024-11-12 08:13:35",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "172db341-60af-426c-828e-bc9cf4dd24cb",
+      "createdOn": "2024-11-12 08:10:26",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d297c09e-9c7a-4b32-b6b6-53b6f44fe381",
+      "createdOn": "2024-11-12 08:09:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3dd4daa1-f530-446f-a4e1-70b2a834399b",
+      "createdOn": "2024-11-12 08:09:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "65202d62-31bd-4f05-b2b3-bda0a982d44b",
+      "createdOn": "2024-11-12 07:57:07",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "19683240-4107-4214-a7e4-dfd3062704f0",
+      "createdOn": "2024-11-12 07:52:30",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6edc3c6f-bed0-4265-b77b-02b7e526d762",
+      "createdOn": "2024-11-12 07:52:29",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f4238ca2-c646-481b-bd57-c737e2794c27",
+      "createdOn": "2024-11-12 07:37:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9fcb443a-fe41-4924-9ddb-a04be51aa088",
+      "createdOn": "2024-11-12 07:35:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e73c4cc0-55fe-4698-a8b8-9682e729de6d",
+      "createdOn": "2024-11-12 07:35:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "dfeea495-307e-4b7e-b414-5403fa646603",
+      "createdOn": "2024-11-12 07:34:32",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a05e500b-1d6c-46fc-a5c0-6fd0543ecd69",
+      "createdOn": "2024-11-12 07:34:26",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a7ec490c-aadf-4bf7-898d-e5baeb31f6d2",
+      "createdOn": "2024-11-12 07:34:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c48b14f2-5fdf-4d70-8349-188289ed3072",
+      "createdOn": "2024-11-12 07:34:23",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8d6e9617-fc4b-4c7c-a34d-4528ea0620e9",
+      "createdOn": "2024-11-12 07:34:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f565e2b6-cd80-4ffe-8f53-db174859d44f",
+      "createdOn": "2024-11-12 07:34:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8039296a-98e2-40f6-ac3b-5c095a5d87c9",
+      "createdOn": "2024-11-12 07:33:53",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "bb8b224e-a526-4591-881a-33ea558cd1a7",
+      "createdOn": "2024-11-12 07:33:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e7e7a292-6b82-48de-acbe-05d20731a65d",
+      "createdOn": "2024-11-12 07:33:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b8cab317-94ac-4af9-8d58-ca0fee1dc58a",
+      "createdOn": "2024-11-12 07:33:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3cf60f8c-0a0c-4ddc-a185-25827af2c279",
+      "createdOn": "2024-11-12 07:30:26",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "da1b4178-444c-4922-b665-e9425867394e",
+      "createdOn": "2024-11-12 07:30:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a5fe0d01-3f6c-4c30-870d-c1de6ee324ae",
+      "createdOn": "2024-11-12 07:30:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0f935c0a-0d46-49f8-934f-1817e37aae74",
+      "createdOn": "2024-11-12 06:11:06",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a98fbc8b-272c-4997-9374-355f49dfe0db",
+      "createdOn": "2024-11-12 05:17:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ef84dd67-dcfb-4047-b2ce-0434fd3dba6b",
+      "createdOn": "2024-11-12 04:55:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4c0773b2-f32c-4c6a-b1d8-546b35e824be",
+      "createdOn": "2024-11-12 04:21:57",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "af185732-be4d-4762-a0d0-adf48a1bb31b",
+      "createdOn": "2024-11-12 04:01:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "aabb1ca7-9a9e-4335-8588-82d1c3f65588",
+      "createdOn": "2024-11-12 04:00:04",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3a6274e4-422f-4daa-a78f-283d2003d800",
+      "createdOn": "2024-11-12 03:54:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "76863458-aef6-4812-95be-4b29c204d586",
+      "createdOn": "2024-11-12 03:53:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "56591e2f-f674-42f9-82d3-6ab797734e56",
+      "createdOn": "2024-11-12 03:53:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "49edd478-6b0c-4485-a567-45f8c8fd1475",
+      "createdOn": "2024-11-12 03:52:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ab148af3-242f-4808-a691-40dd7c96ae20",
+      "createdOn": "2024-11-12 03:51:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d1c4725a-29ae-45c0-977e-55312dedbb57",
+      "createdOn": "2024-11-12 02:47:49",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "dfd9c623-0fbf-4dec-b476-15418938f185",
+      "createdOn": "2024-11-12 02:46:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "02fe563a-1f4e-49c4-a2c8-8a08c6e51912",
+      "createdOn": "2024-11-12 02:46:55",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "dffec3a4-c9ed-4397-b4ef-475c194c6870",
+      "createdOn": "2024-11-12 02:46:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0177ed78-092a-4e86-9781-4a90ae2d82f8",
+      "createdOn": "2024-11-12 02:46:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f177a8f6-b0c6-4524-aa73-dac9f3615881",
+      "createdOn": "2024-11-12 02:46:52",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "13507d0c-5882-4601-a1db-566c5d326834",
+      "createdOn": "2024-11-12 02:46:52",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8cddedf7-6f5e-495c-bacf-25d309908fb3",
+      "createdOn": "2024-11-12 02:46:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "dc201c95-33a1-41a5-bed9-c41ad5702888",
+      "createdOn": "2024-11-12 02:46:49",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f5dc6829-50b0-46b6-a75b-fc9579dbea26",
+      "createdOn": "2024-11-12 02:46:45",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "cc398f65-d66b-4823-8f72-a52eae902a5a",
+      "createdOn": "2024-11-12 02:46:45",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d222dcfb-a6ee-4e3f-ba20-938af2a0abb1",
+      "createdOn": "2024-11-12 02:46:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e6f27bda-4356-4b2b-bd5a-e388beff9d4e",
+      "createdOn": "2024-11-12 02:46:40",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "044a15a1-f00c-404f-8576-d7438f17660c",
+      "createdOn": "2024-11-12 02:46:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9a86e333-5da3-4104-862b-5b0375a3da4e",
+      "createdOn": "2024-11-12 02:46:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "06393d6b-a354-4e0d-8812-193448bef315",
+      "createdOn": "2024-11-12 02:46:23",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "aecc9f58-01d0-49c6-8396-ae9d78dda7cf",
+      "createdOn": "2024-11-12 02:46:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2156ce25-2a5a-465d-9c3a-12be84b1fca3",
+      "createdOn": "2024-11-12 02:46:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "360cc1a3-0d9d-4823-b77c-55144b2bada0",
+      "createdOn": "2024-11-12 02:46:07",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "adecd379-58bb-4a53-a484-3d713c8d6eae",
+      "createdOn": "2024-11-12 02:46:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "93045ded-889a-42e6-9da9-e0ada07e4e51",
+      "createdOn": "2024-11-12 02:46:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f31765b8-16b9-4625-855f-6b7d48cfc7d7",
+      "createdOn": "2024-11-12 02:45:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "acafe31e-7099-444c-96f8-f54a515406c1",
+      "createdOn": "2024-11-12 02:45:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1f1a4081-ed65-411e-bd7d-6992aa29a749",
+      "createdOn": "2024-11-12 02:45:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "00b7acce-216d-4a22-a5b2-00e5c38c60b6",
+      "createdOn": "2024-11-12 02:45:30",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d1b2c371-9893-4e99-96df-bb7fcd041664",
+      "createdOn": "2024-11-12 02:45:29",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "287c2b15-1f48-495a-b76c-584cb9f89002",
+      "createdOn": "2024-11-12 02:45:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "26a5c0c0-2443-41fe-8cc5-1d7b7b2d8438",
+      "createdOn": "2024-11-12 02:45:18",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6ff239d8-b4c8-4efe-80a3-62c5abcd4833",
+      "createdOn": "2024-11-12 02:45:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0422ff46-5cdc-42bd-b953-9c8dd96925e7",
+      "createdOn": "2024-11-12 02:45:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9f9e45bb-f6e6-46eb-862b-a9488181d525",
+      "createdOn": "2024-11-12 02:45:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4aa7ce37-2f4d-45b4-bd33-bd0618aca3be",
+      "createdOn": "2024-11-12 02:42:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7d292c1a-e3f3-4b54-b455-521338865a78",
+      "createdOn": "2024-11-12 02:41:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5167e766-4429-4ed4-8a88-04bf2b41249e",
+      "createdOn": "2024-11-12 02:40:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b77f1aae-b160-4f67-99e9-7893e03bf567",
+      "createdOn": "2024-11-12 02:39:30",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6efa0f2a-0c02-444b-b71c-73705beefaa7",
+      "createdOn": "2024-11-12 02:39:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "abebb2e3-9b49-4046-9624-00b30cd9cd6d",
+      "createdOn": "2024-11-12 02:33:14",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b2c29738-f917-497c-b512-5f2c9450f63f",
+      "createdOn": "2024-11-12 02:32:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1245984c-8f7a-487c-bb23-dba7a3fdb38f",
+      "createdOn": "2024-11-12 02:31:21",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1e06ce6f-2b7a-48be-be43-6e41a82cc50f",
+      "createdOn": "2024-11-12 02:31:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b878d873-5e91-4644-af06-cee45da88188",
+      "createdOn": "2024-11-12 02:29:12",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "964d2efb-7b34-4666-b15e-5b8087dd20ff",
+      "createdOn": "2024-11-12 02:04:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "aa9a5a8d-f717-407c-ba38-2f659f554e42",
+      "createdOn": "2024-11-12 02:03:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5ce7cfb8-453c-4782-ad45-c7cc673b47cc",
+      "createdOn": "2024-11-12 02:03:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c7f388a8-d8b1-411f-a758-3201896ef154",
+      "createdOn": "2024-11-12 01:50:21",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "995bdbf2-3b9b-4ece-87a2-ad7ab193ac5b",
+      "createdOn": "2024-11-11 19:33:45",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "64aa784b-6006-4ee3-b83d-aca8d1b29b9c",
+      "createdOn": "2024-11-11 17:00:12",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3a2cd642-83f5-42c7-8df2-c712ff31044d",
+      "createdOn": "2024-11-11 17:00:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e93223b8-b02a-4d04-a973-6e1a96b7f3a1",
+      "createdOn": "2024-11-11 17:00:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "34a0cf69-ec00-4a0c-b297-3e66b15fe929",
+      "createdOn": "2024-11-11 17:00:08",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5d224c48-619a-445d-ae4c-23d12c9de35d",
+      "createdOn": "2024-11-11 17:00:07",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "bbebb0ad-150d-459e-8b47-aebb907a70c4",
+      "createdOn": "2024-11-11 17:00:06",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e600e003-03c3-467f-813b-7a70b49f3acf",
+      "createdOn": "2024-11-11 16:49:29",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8153f35a-44b4-4e38-b337-bbaf21e560fa",
+      "createdOn": "2024-11-11 16:34:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e9b4d502-f90e-484b-a6a2-841a6b315ede",
+      "createdOn": "2024-11-11 16:12:12",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d838bf44-f3e4-4d01-a870-8d0800631815",
+      "createdOn": "2024-11-11 16:08:30",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b215d77b-b57a-4869-acce-ee8ace3db838",
+      "createdOn": "2024-11-11 16:04:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ee80184d-3fd6-4e88-8542-5668119794be",
+      "createdOn": "2024-11-11 15:50:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9e81a335-3c09-476a-9250-db4ff4b0638a",
+      "createdOn": "2024-11-11 15:49:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e3873f7a-b9cc-48f2-9c99-fc0bdbd42b25",
+      "createdOn": "2024-11-11 15:47:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "70652b70-0afc-4f9d-9d3e-e610d0589411",
+      "createdOn": "2024-11-11 15:43:37",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8aaa4d0c-ae63-4773-b46a-0731c0aec3c6",
+      "createdOn": "2024-11-11 15:33:37",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "04b5548e-4bc8-412d-a892-5e2dc664dff2",
+      "createdOn": "2024-11-11 15:24:46",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7eba5fba-a2a4-444d-9bba-05826b71670a",
+      "createdOn": "2024-11-11 14:48:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a6af117d-7403-4186-9410-72c771e23af1",
+      "createdOn": "2024-11-11 14:41:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e3c8a762-425f-46e5-ac9d-92614dc095e0",
+      "createdOn": "2024-11-11 14:36:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0047548a-5908-4cb3-adea-e9463b5f11eb",
+      "createdOn": "2024-11-11 14:36:03",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ed9854e5-f01e-4be8-9938-4c3fd32e1cc6",
+      "createdOn": "2024-11-11 14:35:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "eccf505c-3c32-4f15-8dc8-c49ead5ef361",
+      "createdOn": "2024-11-11 14:33:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "89778c6a-1fde-444d-99b7-45c46fdb575b",
+      "createdOn": "2024-11-11 14:24:55",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "443f247a-41eb-454f-8d0d-6646b42d456d",
+      "createdOn": "2024-11-11 14:24:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5579b237-1bca-40ca-a2f7-d1730d448870",
+      "createdOn": "2024-11-11 14:16:41",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fc6da0e9-0590-41d6-acaf-a53f71034158",
+      "createdOn": "2024-11-11 14:13:23",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "13183c7e-1ece-4551-b31d-ca8fa350e706",
+      "createdOn": "2024-11-11 14:12:34",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "142f1e1b-730e-48bc-8e2a-9162597584a3",
+      "createdOn": "2024-11-11 14:03:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "dc2012f8-60da-481f-b25b-8fb4af454834",
+      "createdOn": "2024-11-11 14:02:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "88645e4a-f449-476c-84e8-13fbd630e8fb",
+      "createdOn": "2024-11-11 13:35:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ac0cf7fb-6650-480b-8e37-6d757776ba95",
+      "createdOn": "2024-11-11 13:34:08",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7f79832f-33ce-430a-a872-00faedfd1d1f",
+      "createdOn": "2024-11-11 13:20:44",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "99669abf-2dd4-4468-87d6-32a84df9dd02",
+      "createdOn": "2024-11-11 13:20:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8eee7690-7256-48d2-9622-6d9145c302b1",
+      "createdOn": "2024-11-11 13:19:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0020c360-ad94-4dfb-a4bd-85329e96eb67",
+      "createdOn": "2024-11-11 13:19:41",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "773026a2-339d-4056-af41-9adb37316d0d",
+      "createdOn": "2024-11-11 13:16:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1670b5a0-40dc-4901-ad60-3011b7412015",
+      "createdOn": "2024-11-11 12:58:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b9c45bf6-9344-4796-85f2-492a81c7b018",
+      "createdOn": "2024-11-11 12:58:28",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "15905c78-bbc6-498e-b195-e947acb137fe",
+      "createdOn": "2024-11-11 12:57:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e4dd29bf-84dd-4e72-b691-84a224973564",
+      "createdOn": "2024-11-11 12:57:07",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ffb576fe-9b22-406c-b789-96ff6f6726e2",
+      "createdOn": "2024-11-11 12:56:21",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "70db3f14-0b0d-49b9-bcce-adce351351ee",
+      "createdOn": "2024-11-11 12:55:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "39b2d193-9a16-4cdd-bc47-11c5d1769d7b",
+      "createdOn": "2024-11-11 12:55:21",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "aefaaa5f-9b72-461e-b0ed-e30a01d4c1d1",
+      "createdOn": "2024-11-11 12:55:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7d241ecc-15a1-4e79-856f-a523fef30a81",
+      "createdOn": "2024-11-11 12:00:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "338d9ce9-008d-4123-acd5-3ce51e38809e",
+      "createdOn": "2024-11-11 12:00:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "09aa1363-917b-4f44-9a1d-f689330a0e48",
+      "createdOn": "2024-11-11 11:59:35",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ec39c0e9-716d-47ba-8501-e61ff2f25c15",
+      "createdOn": "2024-11-11 11:58:34",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0d239603-f349-492f-8054-39d008166fa0",
+      "createdOn": "2024-11-11 11:51:49",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1cbb3050-b45e-4c44-b827-d37759b488d8",
+      "createdOn": "2024-11-11 11:42:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fbe8af8c-7131-48bb-9e17-5837833e675a",
+      "createdOn": "2024-11-11 11:32:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "227da68c-d34d-4fb8-bf5b-1fd60f0829a5",
+      "createdOn": "2024-11-11 11:24:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a3d3229d-86af-47b6-bc99-f1fc7e2b7137",
+      "createdOn": "2024-11-11 11:23:07",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "acb54ffa-2ef1-460c-bb1c-399a8a1c5694",
+      "createdOn": "2024-11-11 11:19:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9fd34681-1835-490e-a511-80d510f45f60",
+      "createdOn": "2024-11-11 10:56:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8f8d7e27-7493-43f4-b00c-55184b7200f2",
+      "createdOn": "2024-11-11 10:54:37",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fb1bcea7-531b-4f26-b941-3e733e7d1a02",
+      "createdOn": "2024-11-11 10:54:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "35515f82-c6af-4089-8edd-34430c088a26",
+      "createdOn": "2024-11-11 10:54:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c720dafc-0849-405a-b952-4fd8ea0914be",
+      "createdOn": "2024-11-11 10:53:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6ad7dcad-90af-4df7-8c55-218d92bf8a0d",
+      "createdOn": "2024-11-11 10:53:30",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "eb539f42-da7d-4a29-b497-1b204edc80b1",
+      "createdOn": "2024-11-11 10:52:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f93a1a3a-113a-426b-abf0-6e833ae408cb",
+      "createdOn": "2024-11-11 10:52:49",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "66ffc470-8bd2-4f65-a8de-a483abca062f",
+      "createdOn": "2024-11-11 10:40:49",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4dc9499b-c5af-46a4-9f81-9af36c74c5c1",
+      "createdOn": "2024-11-11 10:40:12",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "58bcde9b-50bb-4796-a536-71818b1a94a0",
+      "createdOn": "2024-11-11 10:39:29",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f003f01d-1cd2-4a47-b47d-736def43cb77",
+      "createdOn": "2024-11-11 10:39:28",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c04bac36-6637-4043-8d59-8bcba45c6b70",
+      "createdOn": "2024-11-11 10:39:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7cc7c164-5181-4f64-9a6d-fc947e52d838",
+      "createdOn": "2024-11-11 09:44:45",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "07343a10-6094-4bdc-b535-b9e7f74fa789",
+      "createdOn": "2024-11-11 09:43:45",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "23cbc6fa-0b1c-45b5-a018-b6be5ee87958",
+      "createdOn": "2024-11-11 09:42:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "208c4e80-fc79-4835-9b2a-e90521ebbbcf",
+      "createdOn": "2024-11-11 09:41:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "52f3922f-ea4f-4a4c-97aa-1425e8cba1e5",
+      "createdOn": "2024-11-11 09:40:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "893d4feb-3258-4507-a7bc-be7aecaf25b6",
+      "createdOn": "2024-11-11 09:39:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "db0dc175-d4fe-4e88-816a-01bdd8c364ae",
+      "createdOn": "2024-11-11 09:38:57",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e238ad3b-1384-4ae7-8d62-56f01c88b0f7",
+      "createdOn": "2024-11-11 09:37:37",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "74f009c3-dd48-4bfc-ad90-c0c05c2a2264",
+      "createdOn": "2024-11-11 09:37:23",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4354ebd2-795b-4c5f-8a1a-eb73fcf4349d",
+      "createdOn": "2024-11-11 09:37:04",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e27900f7-f758-47dc-8013-bd122249f009",
+      "createdOn": "2024-11-11 09:36:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8bd999a3-7fa3-435c-b2e4-0c99defb6bfe",
+      "createdOn": "2024-11-11 09:36:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a05a7cbd-f6af-47c8-a755-cbab8636b1bf",
+      "createdOn": "2024-11-11 09:36:29",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ab7e3ec9-99ce-4d84-be10-b1ce9a4b0f9b",
+      "createdOn": "2024-11-11 09:36:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "74a3aeca-1934-4e69-b232-b50927988c05",
+      "createdOn": "2024-11-11 09:35:45",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "98e83d00-5866-4739-a839-c46038d73282",
+      "createdOn": "2024-11-11 09:35:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "faa428d8-acc9-432f-bc33-29cb0bdc272a",
+      "createdOn": "2024-11-11 09:35:26",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6adfa389-c449-4a78-9d68-e7e0af48439a",
+      "createdOn": "2024-11-11 09:34:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "26496a38-ba2b-4681-b59d-2b6c5e0dd9c4",
+      "createdOn": "2024-11-11 09:34:06",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "821650fc-d6ac-4b15-bd60-6808e9c027f9",
+      "createdOn": "2024-11-11 09:33:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0ba8feb5-6552-455f-af51-dda1f998f5eb",
+      "createdOn": "2024-11-11 09:33:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9decd7a5-0a72-444e-9613-dea89a0c4f41",
+      "createdOn": "2024-11-11 09:32:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "538ae797-2051-4796-8fb8-36b829761415",
+      "createdOn": "2024-11-11 09:31:06",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "54d0e9f7-711b-4314-9f68-74f26fa35d36",
+      "createdOn": "2024-11-11 09:25:55",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1052048a-0cd0-4561-a9dc-f2d6df488dec",
+      "createdOn": "2024-11-11 09:19:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6e6b10cd-8caf-4ef0-8807-68e9b05b144c",
+      "createdOn": "2024-11-11 09:11:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "bb566b0b-5b4c-48d1-b33f-4a01a114c65b",
+      "createdOn": "2024-11-11 09:00:53",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "65b91bd1-8889-471a-ac1a-8f5509c877ba",
+      "createdOn": "2024-11-11 09:00:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a932c8a3-a228-47a2-a86d-54aa34041206",
+      "createdOn": "2024-11-11 08:41:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7896f368-53f6-4546-b794-249aecbf3f66",
+      "createdOn": "2024-11-11 08:30:34",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "75358482-8395-4355-ae2b-108bad863bd3",
+      "createdOn": "2024-11-11 08:04:38",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "15cb8544-8157-4d33-9f1b-f7b4f0e3120f",
+      "createdOn": "2024-11-11 08:02:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c186c011-837c-4154-950f-3736fb1b90b1",
+      "createdOn": "2024-11-11 07:57:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ccef5b24-7b2b-4bd1-885c-21058282c5d2",
+      "createdOn": "2024-11-11 07:55:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "bb25491d-1e06-4b50-8bdf-91552dd5e6bc",
+      "createdOn": "2024-11-11 07:55:52",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5c8215e5-2576-439f-99a5-d09c2b29e1da",
+      "createdOn": "2024-11-11 07:55:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f5fd1628-8f21-45c7-9db0-647fa3a6918b",
+      "createdOn": "2024-11-11 07:52:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1a71c902-e05a-49ce-8bb9-cb11ff14762d",
+      "createdOn": "2024-11-11 07:48:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "df62a79e-b4e1-4e09-90e4-a677890363f0",
+      "createdOn": "2024-11-11 07:46:04",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7471ec11-bf00-485f-9be3-7e27c41290d9",
+      "createdOn": "2024-11-11 07:45:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "cf8f770f-eea7-4b9a-a006-37cd688c4964",
+      "createdOn": "2024-11-11 07:45:26",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b5a397b8-2854-44f4-9b5d-edcd4e6c8258",
+      "createdOn": "2024-11-11 07:45:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "995530aa-baf0-4a09-85c5-0f0f3981b38f",
+      "createdOn": "2024-11-11 07:44:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "96992029-05f6-4055-9ca1-d4806940e492",
+      "createdOn": "2024-11-11 07:42:40",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c6ae40cd-a499-4447-af65-d6d38fd67e10",
+      "createdOn": "2024-11-11 07:42:14",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5bf11d37-c85a-4d60-a770-7fc501e84ff3",
+      "createdOn": "2024-11-11 07:41:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9f411a97-632a-4b3e-af5a-84e6a5a376dd",
+      "createdOn": "2024-11-11 07:39:38",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5cbb663a-7fd2-45fb-a705-8d428ed9c78f",
+      "createdOn": "2024-11-11 07:39:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "160f246a-c59a-4042-a6dc-9afdcf58c8a2",
+      "createdOn": "2024-11-11 07:39:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "be0b2140-78d7-4d08-b9c0-42b37f11769d",
+      "createdOn": "2024-11-11 07:38:52",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3896fe85-c963-454b-a7cc-3ac4decacccd",
+      "createdOn": "2024-11-11 07:38:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "85a48fe3-345d-4eea-aec7-db9a72387636",
+      "createdOn": "2024-11-11 07:38:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fea4f4fa-5e27-4a58-8d43-193a777ae876",
+      "createdOn": "2024-11-11 07:36:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "34d6fb36-2cc4-4a28-84e7-2ed24b9279eb",
+      "createdOn": "2024-11-11 07:35:06",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "aafb7d2d-7db2-459f-a24f-5d6d494e8f54",
+      "createdOn": "2024-11-11 07:32:35",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "17c559f8-0bfa-44a0-8c65-bf1badb4a792",
+      "createdOn": "2024-11-11 07:32:28",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9e1dd51c-b073-44ec-a6cf-41ba92efdd95",
+      "createdOn": "2024-11-11 07:31:44",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "00bee9ec-2a3e-454a-948e-8d2844dc4be8",
+      "createdOn": "2024-11-11 07:29:21",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d598c9ef-7a2c-4bbf-807d-06260ffcced0",
+      "createdOn": "2024-11-11 07:28:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f6fad7d2-7d54-423a-8fb3-c816aec697b1",
+      "createdOn": "2024-11-11 07:28:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a701fea4-8c08-4c3d-a60a-1b91d99db2e8",
+      "createdOn": "2024-11-11 07:24:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "16f89dee-6e58-4d94-9c8f-4773ce3644f9",
+      "createdOn": "2024-11-11 07:23:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f7c1105f-8ebf-4e99-beee-9a1446a945b6",
+      "createdOn": "2024-11-11 07:23:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "01eb4d87-76d8-490b-99e8-5871172b29bd",
+      "createdOn": "2024-11-11 07:22:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a9572ffc-635f-40f5-8c64-b700c9462117",
+      "createdOn": "2024-11-11 07:19:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9d1a9c56-ace6-4cb6-ab11-30e035030e86",
+      "createdOn": "2024-11-11 07:18:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7c7a964a-99da-4c1a-8b69-e50a571a1e26",
+      "createdOn": "2024-11-11 07:15:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c8b4e19b-9c88-447c-82ca-1edbfafb4273",
+      "createdOn": "2024-11-11 07:14:41",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "38ab21ef-8be4-4fd9-b3cf-270d8b164f55",
+      "createdOn": "2024-11-11 07:14:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ec37f51a-cb76-4a13-945f-8b762be0028e",
+      "createdOn": "2024-11-11 07:13:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d5801c60-552d-43c5-9676-4793b189f108",
+      "createdOn": "2024-11-11 07:13:53",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b7c00c02-d271-499b-a2e3-e582345f5a38",
+      "createdOn": "2024-11-11 07:13:28",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8ff36722-9c88-49f7-8c53-8b990f6405cb",
+      "createdOn": "2024-11-11 07:13:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4db6313c-5cc9-4be9-9d9d-e1d12c2818ae",
+      "createdOn": "2024-11-11 07:12:45",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4e97e111-a4e3-4093-a6a1-2267594b5977",
+      "createdOn": "2024-11-11 07:12:30",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "36ca14b5-9343-48c3-81be-b4acba401a2d",
+      "createdOn": "2024-11-11 07:12:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "11b7045f-bfc5-4167-b3b1-251ef1b323eb",
+      "createdOn": "2024-11-11 07:12:12",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8c7aa1cd-04ec-4d10-b426-7e6b18c60498",
+      "createdOn": "2024-11-11 07:10:45",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fef9f2fc-b165-4077-aa11-90f7b1856fe0",
+      "createdOn": "2024-11-11 07:09:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8a87b531-7620-42d0-89e8-477716ed56a1",
+      "createdOn": "2024-11-11 07:08:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "92cc12bb-47f2-4973-a4ae-527d0f5fbaa5",
+      "createdOn": "2024-11-11 07:08:44",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3ca0e3ff-a032-4ea7-ab44-7150950aaa43",
+      "createdOn": "2024-11-11 04:23:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "da981060-e4d4-4ebb-a445-f956bdb2d74a",
+      "createdOn": "2024-11-11 03:44:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5138b847-5950-4117-87f7-a519153e7fbd",
+      "createdOn": "2024-11-11 03:20:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "66d952f5-fac5-4b85-a5c5-cdb92e62c5bf",
+      "createdOn": "2024-11-11 02:42:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ba695763-d87a-4430-808e-def45cca829a",
+      "createdOn": "2024-11-11 02:41:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9fcc3d6d-06ee-4b99-84ba-2d1221b29ed7",
+      "createdOn": "2024-11-11 02:41:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4b16dd56-fa0a-46d8-b6d3-2137b191146e",
+      "createdOn": "2024-11-11 02:40:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5b632b37-137c-4cf0-b65e-f03177650b20",
+      "createdOn": "2024-11-11 02:39:18",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a42f7d94-18d4-491b-9d31-1e85ebc2ae8a",
+      "createdOn": "2024-11-11 02:38:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c56f9c2f-3d32-4719-a181-6ede7c6d9509",
+      "createdOn": "2024-11-11 02:37:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "768e1a48-d424-4a1b-ab09-38860c0bd943",
+      "createdOn": "2024-11-11 02:36:40",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "27c68b15-639e-4449-a1cc-206f97766fc2",
+      "createdOn": "2024-11-11 02:35:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0a2e1711-4306-4637-a213-5df73744e483",
+      "createdOn": "2024-11-11 02:34:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1066ce55-4010-4f3e-b37c-00e48adf7beb",
+      "createdOn": "2024-11-11 02:04:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "cd245cdd-4804-4845-94dc-3e4459939a33",
+      "createdOn": "2024-11-11 02:03:40",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "75680302-a3a6-40e4-8436-25c23422aff3",
+      "createdOn": "2024-11-11 02:03:30",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8e252445-cadc-45a6-9747-91bec3ca0c92",
+      "createdOn": "2024-11-11 01:43:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "74e2fcd9-cc70-4d4a-be31-cd32abf2b82c",
+      "createdOn": "2024-11-10 19:32:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "544f83f1-0ce9-4aa3-8c38-99f6ff544c19",
+      "createdOn": "2024-11-10 19:00:46",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e0f66309-e89d-41f7-b58b-45d4406e205f",
+      "createdOn": "2024-11-10 18:55:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7c69427f-012e-4a13-9b8c-fcf1f0e52eec",
+      "createdOn": "2024-11-10 18:55:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e95a48ed-2056-4224-a4df-f85b3e72945f",
+      "createdOn": "2024-11-10 18:47:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a4224fa4-be1f-490d-9f59-2f5bb8816028",
+      "createdOn": "2024-11-10 18:47:31",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "db7b8b32-fe60-4325-be0b-efca28df85e5",
+      "createdOn": "2024-11-10 18:41:18",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "358f1002-017d-4695-9d67-4db654f4fefa",
+      "createdOn": "2024-11-10 18:41:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "bb3c037d-92e2-47c3-b391-4a1270a99b1a",
+      "createdOn": "2024-11-10 18:33:08",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1d586886-e8ba-4156-8fa6-20c6e6bcdcbf",
+      "createdOn": "2024-11-10 18:33:08",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d24f0679-a06f-4413-876c-3cbd16905c5c",
+      "createdOn": "2024-11-10 18:27:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "be12a6e4-6351-4e8a-a5b3-2ace391966cf",
+      "createdOn": "2024-11-10 18:27:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fab287fd-380a-419a-b7c7-307ce136be89",
+      "createdOn": "2024-11-10 18:21:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ecd6e027-c030-4d65-81af-bfbeb334f19b",
+      "createdOn": "2024-11-10 18:21:14",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e3daef13-91ac-4a38-bbb8-f0dc01221d9f",
+      "createdOn": "2024-11-10 18:20:37",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d44fd689-aade-4ce4-a2cb-ca31e616345e",
+      "createdOn": "2024-11-10 18:20:37",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fbe56d1c-81f4-472a-8be4-9d282e349c08",
+      "createdOn": "2024-11-10 06:54:14",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "aa3aac56-4ded-43c6-b563-088d24b841e2",
+      "createdOn": "2024-11-10 04:21:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ac8a0551-fed8-4efc-b849-452e6a511b18",
+      "createdOn": "2024-11-09 19:32:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f25c7db3-0530-423b-8764-0c860392cee2",
+      "createdOn": "2024-11-09 04:21:57",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "39ed33ab-4555-4cb1-9508-d8ee1f59ccdb",
+      "createdOn": "2024-11-08 19:32:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a4162fc4-17b8-4c43-b260-6c5b50784db7",
+      "createdOn": "2024-11-08 18:12:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2d841a41-3c71-4cc0-80ff-b8778e8367d5",
+      "createdOn": "2024-11-08 18:11:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "34b72016-ddfe-4311-a1d9-1c1c0262103c",
+      "createdOn": "2024-11-08 18:11:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "bdbde648-21f5-44ff-871b-3e3f485e769b",
+      "createdOn": "2024-11-08 18:11:00",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6c0f0046-a2d7-4956-806c-c1525dde7676",
+      "createdOn": "2024-11-08 18:10:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "23504c31-3760-4dc8-9ce4-09cf642243f9",
+      "createdOn": "2024-11-08 18:10:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "df6b0e5c-3775-4806-8618-6e25f7d55d14",
+      "createdOn": "2024-11-08 17:13:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8940180b-ad01-4f09-8a57-42864e6bf351",
+      "createdOn": "2024-11-08 17:11:49",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5c380e4b-dbf4-421d-b2c0-20d1130c7901",
+      "createdOn": "2024-11-08 17:08:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c4396549-35ee-4361-840c-a80199875fb9",
+      "createdOn": "2024-11-08 17:08:53",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e8b946ab-0f16-4456-85ce-16ca999943b4",
+      "createdOn": "2024-11-08 14:37:26",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3c8ff817-105a-471f-857e-ff0ed0ccbfd0",
+      "createdOn": "2024-11-08 14:35:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1f69abfb-d9a0-41da-a465-5d9e5e1a44f4",
+      "createdOn": "2024-11-08 14:27:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8b2122c6-8943-4e49-9c58-a52c5c5200c0",
+      "createdOn": "2024-11-08 14:26:23",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3010809f-bb04-45d6-8f31-f93d61e35bda",
+      "createdOn": "2024-11-08 14:26:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2bd0298f-ee96-4dea-a1ca-99e533469d58",
+      "createdOn": "2024-11-08 14:26:21",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0c34a979-f2e3-4dd6-9109-65d7a870864b",
+      "createdOn": "2024-11-08 14:26:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c01287c6-e9d1-48d9-bb31-46dcc887d395",
+      "createdOn": "2024-11-08 14:26:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e480f66f-2426-42fb-80f1-aa914360f703",
+      "createdOn": "2024-11-08 14:08:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f746aa64-ada9-475e-a8dd-5db5ce5d6aca",
+      "createdOn": "2024-11-08 13:48:53",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2cd0426a-ef38-4048-acbc-770005bab7f6",
+      "createdOn": "2024-11-08 13:38:06",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a215a356-a829-4f3b-957a-4bf557fd3d8a",
+      "createdOn": "2024-11-08 13:37:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "74bd99f0-6fce-4dd5-b212-ac59e134c5bf",
+      "createdOn": "2024-11-08 13:36:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5257cde7-da79-4673-b62a-5f279bbc45b8",
+      "createdOn": "2024-11-08 13:36:24",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "402e9a7f-a509-4c8f-990c-b1eb5e2fe2b2",
+      "createdOn": "2024-11-08 13:36:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4cda9f25-74b8-4e75-80a1-aba1034da1a1",
+      "createdOn": "2024-11-08 13:36:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "31c59650-bdc0-4046-933e-11ea8052bd93",
+      "createdOn": "2024-11-08 13:36:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "818769fd-82c8-4c0a-8845-45052fac950b",
+      "createdOn": "2024-11-08 13:35:35",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2545d99f-8d52-43d3-a89a-c2900eee7b84",
+      "createdOn": "2024-11-08 13:35:34",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f4742622-3a5a-4049-b2ba-a5daeacf4fc7",
+      "createdOn": "2024-11-08 13:32:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "bbf86520-c47e-4ec4-ab4e-2d8c585b80d1",
+      "createdOn": "2024-11-08 13:32:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c79c4057-d484-4887-ba2f-0a3626b66fc6",
+      "createdOn": "2024-11-08 13:31:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b4c7676c-25fa-4d53-a9ca-d5f19d7681a3",
+      "createdOn": "2024-11-08 13:31:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "610920d8-a482-436e-b25d-eb877cabcbcd",
+      "createdOn": "2024-11-08 13:15:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "db678e65-deaa-44af-ab2f-12a1e2a32be3",
+      "createdOn": "2024-11-08 13:15:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7eec1cf9-7c97-453e-bed1-1e60849b7c42",
+      "createdOn": "2024-11-08 13:14:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6b9988fb-1a79-4529-8715-db604b6b7f09",
+      "createdOn": "2024-11-08 13:14:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f396a168-f091-43f0-8240-5fb51a98e787",
+      "createdOn": "2024-11-08 12:59:38",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f5fd3c21-314e-4992-899e-74676a1baeab",
+      "createdOn": "2024-11-08 12:29:40",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "04909d4a-9200-44e1-861e-6e62101565d7",
+      "createdOn": "2024-11-08 12:25:39",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b9e670b6-a6db-4438-bbab-3b0e373fb320",
+      "createdOn": "2024-11-08 12:25:38",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "54a99be2-b12a-43b7-b10c-a9cad311a4c8",
+      "createdOn": "2024-11-08 12:14:34",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "038f322f-00e4-4a9b-9001-1ca278556608",
+      "createdOn": "2024-11-08 12:14:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "812dd235-8519-4fbf-96f3-b40101c44cd8",
+      "createdOn": "2024-11-08 11:59:07",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d04de948-9b9f-4863-a756-24ddc1fd528c",
+      "createdOn": "2024-11-08 11:34:12",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "19da65a8-4597-409e-9391-935b2b87a225",
+      "createdOn": "2024-11-08 11:21:44",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d0500d08-2809-4dd3-add3-4be21ae83d4b",
+      "createdOn": "2024-11-08 11:16:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "09373066-b6d8-44cf-961b-459a99c3363c",
+      "createdOn": "2024-11-08 11:16:41",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "01a655d7-b31d-4c80-b0a0-f16034285920",
+      "createdOn": "2024-11-08 11:12:38",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fdc6b54a-f9c0-488f-8f0d-df43c024030d",
+      "createdOn": "2024-11-08 11:10:36",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "53be27ee-0425-4225-a9b4-36d5be670fd7",
+      "createdOn": "2024-11-08 11:01:58",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ceb1f466-e5cd-46af-8c46-6e830fcb6607",
+      "createdOn": "2024-11-08 10:59:49",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f0835589-46bc-4b07-9d1a-681f960a628d",
+      "createdOn": "2024-11-08 10:59:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "a29f9ab2-b997-408b-8f7c-ce6d7e1b9fe6",
+      "createdOn": "2024-11-08 10:23:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "59ce9548-3756-453a-b97c-c40dd2ffe49d",
+      "createdOn": "2024-11-08 10:22:26",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "da8478e0-561a-469d-a8cb-5d8abc8ac11a",
+      "createdOn": "2024-11-08 10:22:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "468bdcca-396c-4a00-a838-9716fc54235b",
+      "createdOn": "2024-11-08 10:21:30",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6eca19cd-cbe8-4277-83a1-3ddb3371a4e7",
+      "createdOn": "2024-11-08 10:20:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b81e1eda-3a32-4f62-a84a-df48a9e863b1",
+      "createdOn": "2024-11-08 10:19:53",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4413d6ed-abba-4ad8-8407-76acfc982bb1",
+      "createdOn": "2024-11-08 10:18:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "aecae111-61f0-410a-93f3-679590986b7c",
+      "createdOn": "2024-11-08 10:16:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3e738627-9dfe-4d1a-baae-72f40f4a3117",
+      "createdOn": "2024-11-08 10:14:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3ea8ad27-cea6-42fc-a9d2-75415ee715ff",
+      "createdOn": "2024-11-08 10:14:37",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "78a58309-b250-4eef-a2c5-f9273a4dd811",
+      "createdOn": "2024-11-08 10:12:04",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ba4c1973-eb3a-45ec-a1c5-d79aae568d1e",
+      "createdOn": "2024-11-08 10:10:02",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "04eeca7f-8dcb-4f4c-982c-bdead8e583f7",
+      "createdOn": "2024-11-08 10:09:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6ff374cd-371f-4e80-ab97-d1af32bd7fe7",
+      "createdOn": "2024-11-08 10:07:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e893c9f5-3ab8-457b-87e0-2e7b8296c188",
+      "createdOn": "2024-11-08 10:06:57",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "459e5985-d489-4494-ba97-04364d577c65",
+      "createdOn": "2024-11-08 10:04:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "06a8d291-5952-4f19-aa89-7edf5a949c65",
+      "createdOn": "2024-11-08 09:54:46",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "771a9827-e1bd-47ff-b36e-dabf9771ba86",
+      "createdOn": "2024-11-08 09:47:44",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "27e6e628-ace1-422c-b520-e4a2315df9b7",
+      "createdOn": "2024-11-08 09:47:43",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "35303e0f-9fa7-4ed7-9c59-1f841331765c",
+      "createdOn": "2024-11-08 09:46:41",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "33134ea8-015f-46d1-bd75-639529bf0469",
+      "createdOn": "2024-11-08 09:44:42",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c60651ea-cfd5-4104-afdf-fdc1af37e894",
+      "createdOn": "2024-11-08 09:44:38",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "33cf97dd-fe50-423b-8d0c-3ee7c90d245b",
+      "createdOn": "2024-11-08 09:38:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "115f0586-6fb3-4a57-a36e-512677d2f5a4",
+      "createdOn": "2024-11-08 09:37:46",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c4abe5ac-6593-418a-a7ee-80b3e6288940",
+      "createdOn": "2024-11-08 09:36:18",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fee18df6-14e5-4cb7-b2c9-f7077adf42dd",
+      "createdOn": "2024-11-08 09:35:48",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3b02f6bc-5457-435b-babf-86328a8e8aa2",
+      "createdOn": "2024-11-08 09:34:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "511a04cc-24a4-4075-b300-ad6c83ac3d7f",
+      "createdOn": "2024-11-08 09:33:18",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2bc66e14-00f2-4774-b0d3-77dcaf9da349",
+      "createdOn": "2024-11-08 09:33:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "c0c5eca4-bc8b-4149-9355-38a7fffb42e1",
+      "createdOn": "2024-11-08 09:33:04",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "663ec8ee-9d2e-44d2-ba4e-b8c6c1862013",
+      "createdOn": "2024-11-08 09:32:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0a4648e6-439f-4f5e-8d92-f80221268d31",
+      "createdOn": "2024-11-08 09:32:22",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5ecb5ffe-950d-4ee5-9e85-4c3ac9d89aef",
+      "createdOn": "2024-11-08 09:32:21",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "57b54881-27f3-4979-ac55-cbc279b420a9",
+      "createdOn": "2024-11-08 09:32:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0db688bd-9dff-4a62-b814-0fdc29f36eac",
+      "createdOn": "2024-11-08 09:32:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0022af12-431d-4606-aee5-e0c79ddb6a8b",
+      "createdOn": "2024-11-08 09:32:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "fbf890f9-9677-423f-be0a-41210f312484",
+      "createdOn": "2024-11-08 09:31:40",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b414aac8-d89d-4127-9f72-0231dcb75255",
+      "createdOn": "2024-11-08 09:31:21",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "449e383b-ec4a-49e1-a70c-47b0b723ce5b",
+      "createdOn": "2024-11-08 09:30:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b538f790-1e36-49ea-a6e1-c9671ec13a71",
+      "createdOn": "2024-11-08 09:29:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e4e9ca87-1d7f-4ce4-9668-ef31f084f267",
+      "createdOn": "2024-11-08 09:27:48",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4eb0a730-3856-4244-9670-3e2706a996f3",
+      "createdOn": "2024-11-08 09:26:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "881c0a62-68b4-4f99-b94e-c183a15ed3cd",
+      "createdOn": "2024-11-08 09:17:25",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0ca7b86e-edbc-44ee-9585-a362ace32dc2",
+      "createdOn": "2024-11-08 09:10:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0db08a10-ac08-460e-82df-2003dd9dcd56",
+      "createdOn": "2024-11-08 09:08:01",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3c08f215-f950-4354-953e-2d11772ddabd",
+      "createdOn": "2024-11-08 08:53:18",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "adeb33c9-f0b8-466e-82b4-32b746aec35f",
+      "createdOn": "2024-11-08 08:53:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ffccbcb0-6703-4a59-ad81-0af8a604428b",
+      "createdOn": "2024-11-08 08:53:14",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "8780a9b6-d8c0-4726-9ad2-71f09f36b32c",
+      "createdOn": "2024-11-08 08:53:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ef135309-8584-4cb2-a562-5cd8e92e9700",
+      "createdOn": "2024-11-08 08:53:11",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "aa2ee25c-d251-467e-aafd-2dcf130184ad",
+      "createdOn": "2024-11-08 08:53:06",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "097bf8ce-50ee-4190-8165-146358c2c321",
+      "createdOn": "2024-11-08 08:52:56",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "5b9eb4e9-0b97-43ab-9dd0-02fd901f4a4d",
+      "createdOn": "2024-11-08 08:52:54",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f349ef8e-65d9-4a98-843c-8cead479f51d",
+      "createdOn": "2024-11-08 08:52:53",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d239fbcf-2d50-4c6c-96ee-86e0bf20a9bc",
+      "createdOn": "2024-11-08 08:52:53",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "89c1a2a1-6f85-4987-a3f2-395aa4cf941d",
+      "createdOn": "2024-11-08 08:52:51",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e88a6ee1-563d-493f-91b5-3ec4ddeff604",
+      "createdOn": "2024-11-08 08:52:50",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "9a2080b6-5b8e-4cff-ae56-11710d8aee58",
+      "createdOn": "2024-11-08 08:52:50",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "3a896bc0-7ac2-400a-95bb-5cbc0e63c305",
+      "createdOn": "2024-11-08 08:52:49",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "af507834-ead6-4da2-9aff-755c427b2d6f",
+      "createdOn": "2024-11-08 08:52:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "ac2c5907-4fc4-44a3-af3f-bc0766504407",
+      "createdOn": "2024-11-08 08:52:47",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f3f9460c-a0b6-45f4-a54e-d84adacd48b6",
+      "createdOn": "2024-11-08 08:51:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e60ebf5f-3881-48bc-905f-0ebbf61cda08",
+      "createdOn": "2024-11-08 08:51:59",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "28affd5f-7350-4792-ac53-14368e966409",
+      "createdOn": "2024-11-08 08:51:38",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f7683f47-b1e6-4325-91cb-a9f7dd8fa89f",
+      "createdOn": "2024-11-08 08:50:33",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "832e5e7d-ac7c-465b-b934-5f2107fa86cc",
+      "createdOn": "2024-11-08 08:49:27",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1dee4ac6-d572-4f34-858b-445554ae6807",
+      "createdOn": "2024-11-08 08:48:23",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "aa8fe62c-d766-4a9f-a99a-3f1a52afcf4f",
+      "createdOn": "2024-11-08 08:48:21",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "acfb9d1b-5511-4f8f-9edd-d675dd8e35e6",
+      "createdOn": "2024-11-08 08:48:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "29ef5301-67b5-44ad-bb3e-deac0a9410f3",
+      "createdOn": "2024-11-08 08:48:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "50dae692-a9bf-4191-bac5-26dc9ecfbb33",
+      "createdOn": "2024-11-08 08:48:19",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d9f6e4c4-3e3c-403e-b6d7-8f4508a9cfcb",
+      "createdOn": "2024-11-08 08:48:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0a5ab2a1-99ed-4382-bdf5-c0986d25e08f",
+      "createdOn": "2024-11-08 08:48:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "e0ceec1a-8724-42dd-a055-b974a0305ecf",
+      "createdOn": "2024-11-08 08:48:16",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "0af65ea4-cdd7-4e5f-961d-dd77dccddf00",
+      "createdOn": "2024-11-08 08:48:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "971505b6-b5a8-4301-8829-d7d9bba43796",
+      "createdOn": "2024-11-08 08:48:14",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "f688dd43-8798-4408-ae21-6c50893238ed",
+      "createdOn": "2024-11-08 08:48:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2f4d78b9-ef58-4293-af39-7c21b5d3017e",
+      "createdOn": "2024-11-08 08:48:13",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "448e80a4-e240-4170-8fcb-f6b7e45c171e",
+      "createdOn": "2024-11-08 08:48:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "4f5751f5-233e-45bf-8841-895543917098",
+      "createdOn": "2024-11-08 08:47:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "1cd8ec3c-e874-4c72-b06d-710f8be29f7e",
+      "createdOn": "2024-11-08 08:47:20",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b79ec81a-72fe-4d87-9ef6-1a562305d0f4",
+      "createdOn": "2024-11-08 08:47:18",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "dd7ac0c1-f3b0-4ff1-8cfc-14e2fa5126de",
+      "createdOn": "2024-11-08 08:47:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "af5b1b27-f6ff-4219-909b-e680dafb4fe8",
+      "createdOn": "2024-11-08 08:47:17",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "be88a587-03af-48f8-b8a0-dc4d91f95459",
+      "createdOn": "2024-11-08 08:47:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "47c8e94d-9db8-47f7-9574-8bf6de28caea",
+      "createdOn": "2024-11-08 08:47:15",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "6fd25c47-8e88-468c-bb28-4eb24c934628",
+      "createdOn": "2024-11-08 08:47:14",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7312d6e5-ae48-4c11-8007-1d3dcd97193c",
+      "createdOn": "2024-11-08 08:47:12",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "29c62697-aa43-4b92-bf29-8956249a5a15",
+      "createdOn": "2024-11-08 08:47:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "cc29a105-45fd-4641-807b-1c594312e77f",
+      "createdOn": "2024-11-08 08:47:09",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b2fa0207-0302-4257-8ad1-acd8e6d1ac1e",
+      "createdOn": "2024-11-08 08:47:07",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "2c4bc524-9670-4d34-894e-bed2fe75e501",
+      "createdOn": "2024-11-08 08:47:06",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7e1076f8-d477-4d29-833a-cae594e774de",
+      "createdOn": "2024-11-08 08:47:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "40706872-621b-4dfb-87de-eed95297e4d6",
+      "createdOn": "2024-11-08 08:46:10",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "7aaa855a-e2a0-480c-838f-dbefa71b447c",
+      "createdOn": "2024-11-08 08:46:08",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d3532e81-0638-404f-aaed-b7cc842feff9",
+      "createdOn": "2024-11-08 08:46:07",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "713ebac4-f679-4da3-a1a9-72f3d49b4bc1",
+      "createdOn": "2024-11-08 08:46:05",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "b056cc96-365b-4a6e-b90c-eda47a06a8bd",
+      "createdOn": "2024-11-08 08:46:04",
+      "numberOfActive": 0,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2024-11-08 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2024-10-01 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2024-10-03 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2024-10-15 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2024-10-20 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2024-08-01 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2023-01-05 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2023-06-01 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2023-12-10 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2023-12-30 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DGXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2024-01-10 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2024-01-10 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2024-01-10 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2024-01-10 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2024-01-10 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2024-01-10 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2024-01-10 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "d14d6f39-aac8-4916-af9f-e405ad5964e0",
+      "createdOn": "2024-01-10 08:46:02",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-11-14 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-11-10 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-11-01 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-10-14 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-10-14 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-10-14 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-10-14 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-10-14 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-10-10 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-10-01 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-09-14 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-09-10 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-09-10 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-09-10 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-09-01 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-09-01 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-08-01 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-08-01 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-08-01 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-07-01 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2024-02-01 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    }
+    ,
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2023-02-26 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2023-06-01 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2023-07-01 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2023-08-11 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    },
+    {
+      "identifier": "2e6018be-24c3-415b-a497-d4371f89c7b8",
+      "createdOn": "2023-11-01 11:13:50",
+      "numberOfActive": 1,
+      "policyNumber": "DNXXXX"
+    }
+  ]
+}

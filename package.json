@@ -1,0 +1,19 @@
+{
+  "name": "wallet-stats-poc",
+  "version": "1.0.0",
+  "description": "Wallet Stats Visualization",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "docker-build": "docker build -t wallet-stats-poc .",
+    "docker-run": "docker run -p 3001:3001 wallet-stats-poc"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

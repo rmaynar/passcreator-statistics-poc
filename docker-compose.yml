@@ -1,0 +1,9 @@
+services:
+  wallet-passes:
+    build: .
+    ports:
+      - "3001:3001"
+    environment:
+      API_KEY: 
+      PASSCREATOR_BASE_PATH: ""
+      POLICY_CARD_TEMPLATE_ID: ""
